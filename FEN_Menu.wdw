@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_MENU
  identifier : 0x2128ff2001253978
- internal_properties : BQAAAAUAAADT4pzFa9c2m/LZ/XO+vn4p2ZDT41ws1rlXHMIKnsXl9y1MQPBuCA2NjUJ1dWxMtTuefsQNMyNHLx4aJLu2HuNaapX0BnIPgv5I/ZLs0RUucolfPqqQ9eahVBQMBML6/6/bBq5ZKERTZPRKZk6IvpIBibqhkAxu6zLXb/UFBVju46vIWA6eLmlRKeHWvYbAKRfo961f5madVBVUwXjfN7Ca41yG09ulZKp8KuGOJSVbU/ItnmUU/2Cak8/8gv1f+VJ3IFzhwPpxCnSj4xukj2/3yrMLKAtDvq672In2CxPmQO7YGXRmMUIlXmfFO6KgdvoFsyr+zBaONZ8KC1LDGQ9IdiMJGRrzUvSL8xjDEYnX5bzK8s5bMGIeqCyWXd4Y4U0dqrXYsGJUJnsKmgE1SqO1hhwL50QauMUycKv3UVj2IEzpLlfPNxwspOF8HGPFs0Q0E3xsUjGawxACaI+3KFrT26qEkDuxjzjP3691T1gc2AvrenVn5P+RO+4vpuNCrYSN/ogEDrB3rA2d9d7JniosAvdhxAsMs0Ff8vEmwXwWW8oknYqbtWAvtA+B+7zSildYXrbOAywbnSbEanwLJDQrwRnBoQRiQhF6ELEPdYgkF/3h2Aj7FRR7+AcOTUae9Pz70HBezARFL1C41rWGkjCsCW6DBo2CSDqP4AD/r1DK5ToinxBFG6bHoRhmUHtC0Gjs9N/DYSGDnUTSh0Jj4/TG1eNVKJGIgrp/AuO9x6dJLfRC/elHIRvl5tkxFHlsCaF/oxC3C51W8IsgwOKOnDH0+R52Cc1v13Xo+A5uvLJJ3hC7NssVSvR3Nm3fPI8tpVLvayeQZknxa5njevpqKhGJR0848cnFP2oYf2Y1J3/rIXIadIzWMe8nIq20xBS7QGFF9hRYJxpDylKac/GqgAyqUj22Nb70hLmjHPJsGvayAO3+oU8/3DXM3Eq8f9TUKYa+3gZdg4dhgSSuLLBQL+1mODvHjUc9/ts4JFhLx0LtGk1BybcE/xwTEzv2GJd01WXbBN1ICJdCmxnvvPQRBZ2W/pA91V47iOXDqFZx62veRpvxVE7DRweRA8ab/+KLwQPCRk0UzLAn34JzhCmFc8MrBSEZkqCnzh0qeUtyPiUvj7hqF6M7j+DoJkLpS1Y5MI7DA82jiOhCOYYWl0WsFfTAVQ==
+ internal_properties : BQAAAAUAAACfsn0PbwdJyTX9dCUviyrZRAHG+OWl0uui/+xs21A+0+CIBvHiWDGqIHbVrm4EKe/woGOIztBS5Dsjig5OLIVVVOf5g68RIANA9gO6qQ3LrROAcjkQDHl3hnBd4UWMuQYKpeyhFJljvrgZX+asbev4+SCq5fmxNIxQVkiPOuc6UbsPXwnwQJERNyJCzrF64JtHb7kT7Vnn7Qsm2iflKbaM6fqVNZcYzDE/2yKNny+EkYqROtw0Rd0LQy+NQ6QgUaR+lsPSPZdUVto3yeIjWTnt+60EMOU+zr/GwFsRP9ZSsXm0B5k89dam/3f7JFGWtOGc/BXMsvJ7xkCmAoi6e02FHeyTj5dPIRhnj/QM1Fx1N70Bh3sOa2pRGIe3yP3jqBDbhGoxS2exPeVru9WZWWCr+C7eikCndyGuPR7MD2lKZUWtf6SJxnKsswIcS28JthzriWbsdNYAOLa62Zy/W60pnBdKrv1kZlYLTF+3ukQ2RZ4j/KN8bZjhu+NLIcN9Sa0CeNcbGNRW55SAUSzK/1nruK2vtuqRJPQZx591ikI1zDZylJDFUdOUAwpbhWpK/X9MWgTNvOkXVLBwn7Dclnh+6UGTHl3lx07hhoS336p+KW6MDf0IWoM46ODkTOVJV09IvCikNCe53izdMtYYQ/ciWoWTlBfU/mj0CL1jLOCec77qlopfZs3I7OgqySA60dPwlajZby9BNDUUwMrj7LJi3tksfGG5rtSxYhI6hWlJZyTxzggVnkhBicjAw2S43iAN1wIB3KehqmM9WNh1UBKyhjKJIV3Gfm1/y1wOYV7B6Bptx7wGiz8cMoa4GPtPRX3Uu2bm/JMdBNwzUhss62iQjf7+yvXXMfO3gDJiveHQ7VRQ9wThmuJcS22ZhMrS/e3NIkDFP5K6Ystx/RZ7cfLqYVJRqNo2v0qODVi7OBSIyWXMc04P0anI3BtSGs1L09HbjCZmHamTJJEh15jv64hnZlNf4MLtvfsq787Ru27az2RATRsW6OPVihFSDeOhz5U2j6AbgnY7+GA4t+L/Adi6aDFdXWecSPvXhLkZ5r+GqjnsjExDMidCouSlV65aSlW7hu2DrIyMBTM/2q7afqjfp9bW11MCXKk/y5Sp4SCvOnPmBGdVaFFKmpAJyZlp84b4dVRA2+p+jw==
  controls :
   -
     name : IMG_SansNom1
     identifier : 0x2177b5960a7e14b7
-    internal_properties : BQAAAAUAAAA0WYQYFJhuJ26Bf4KjBwrOWy5fQHavLMF7iGTXxoQjLXqxK4/U+RNsbIohGyK3686tSrGDpaotgnMkoZqmAim12mJSYhiNE6j2vNLSswJ+l0X7/BTu9YsHiPxDS9+qGWEfBkIXw92W2qOfeWyvVs6x8ijD6U+6rMxwvFvy1NtQw5lLVjHAAwek2TxQ2Cb/w4MUHeka1nAYWb6OSup0gHTfz447FOlNbPQNBc6zPWCyNbEuk9By1ovnP8KIND1r2I8ueX6cRXtHJ1N3mzndA8cCQcIahayUZF8SY1vnxubHo0sqMTnjErq36w0inT5mWzcse+HQVz6Vp7v/cJZnSHWbIAa/W9yNutDRD0ccWY/goU77/GvdbkmAxR8jtDu0YTY1n6p8BtMh1tZ9tHoMIbcfnINLUErTFQ6RxqsG6QF7vPHpNiD+EwzPBP8ykl+vGkEOIjTAJao1/wQKZRZhsdEgJRN9fVDy7IrJT4lXU1+SMf8OVF2hVcWz5NTUuu2PmrKjh+/YOOJaa6DDJfaZJNnjqtzmYjLBV1N91Ywm4P6OVoDi4Ye0cd8vvcVxBYdDzczwdmgkRupoWlfeISAZutuNi79/UdxD2iaEQDd02Jqc6odQQo4mKCOFCrM5pyMIH6klM6P0m+mFHFf41UfMLWfruw5bUvmbZhFzBTM1sVJEK+YTuETJCnPyBTBsmo+MyDbhFSa+BjnAQtV5+LU8CE7EV8bw5mapQS56HgxnH2HFgecPH4UB17vJXlJSSCHtRZsfHvvFk/gVqrbQ/5c7m9IpgBqsHnnThhK2WSkCbhrDGiVa1S4tHRWsYpif3JcvKk1+M1ZHLuc26ZLo4YxZJcpxIHmMb4D13IW0AMyWFxaeWMEF
+    internal_properties : BQAAAAUAAAD6OeNY9FdNfnNaW3arzNesZ9HIR12CC9x18RbyqcT7Ij5cQ8cZb0346K0Dv5WJTTV7ZKN7LYKGQbpXL8ezTBfmuz/dcinFUsxou7Ouqs2/USZQyCH5NLxwALBvjWFiQ+sgF7n8HGlO0N4J3QrKiyD4FV9NqjrLIFBDeseAmY07K+GASVnRBUiKEr5BnmMK3S0D/gpw3xFyvDgkYhFJiUcuT6dzZRbAyjhSrrOKW44dD3u+dXsoGDmPxazFK1CcqHc9W0+E8jxwU1U3Dcdi01TAv4lckwYYfPn/n8vtkObr5Nwkq1n6FAWS45HmNbSAL7SSj4bsYBa04/N0bOjuMGnAzxSu+YxCiqj6Ft5csrEzWACykV2AEaGuQzVMZA4rVun5NTZSkiv0oJ3oguH29h3wa83oNxKbZWl5KNPyYT2cv0H2F+Wx1N7VBXERJv7gi26GM7H2qmnRIwnGc+3ApyhuU75bq4rVP3DxNId+O54u0UQxkD+7Vw58lv21CgqnQZaUVpAjgrl//sDNdpW5st46TRJbWRqEdsDAsOcYaM7ATel5igeLgXv2Er58+P2Y+f8b3X9XOLTGSLAC7SU3jguju7dPkJ9M8skBD4F9jVMBO+J+5Y/f/UQPJzkWB9AHWJkr4y4LoNCeYQTfOPaQy4eFtvUlI7e5vQArI5q/6TY+bB3cO0U4F0kRBk4/fdP6Hd1S3ftqLqvAhnUF0hIgQYzXRxKpOK1F+kXSk+Bn2fa0KD/PMiDLoQONUzdi0wvKia27+MbDGC8lebEXUPEFAOv6EUQPWET2HOxuUvhDWM2HsxKs8jVDCQjMwPr5wf8qcBPusp57qEpxbFALCTxoqp8qX5C1j9G8p/L5gXwnB9v713Y=
     type : 8
     code_elements :
      type_code : 8
@@ -102,6 +102,43 @@ window :
              ouvre(FEN_COMMUNES_BENEFICIAIRES)
              
             type : 32
+     code_elements :
+      type_code : 26
+      p_codes : []
+   -
+     name : OPT_EXPORTATIONS
+     identifier : 0x2178f8e102737c85
+     internal_properties : BQAAAAUAAADpESplcjd+fWTmQAv92Mr8eRnH8y+Cl8gLXoYF/9lAx14xP5xw2wURhI5m+1fo4UnJajvrvK4CocF94AWCH4uZMPgq3Y1Xcf8xwBQux5CoRShWY30BNjZhNZDV6xgjoLXqKVehQDjjjKmJ53x6oYEHHzgWgDXKM3nrUoDy41Em11XefMarxJW8HOUyqijOjuacbaQrtLhjNjJg6A==
+     options :
+      -
+        name : OPT_Plasman
+        identifier : 0x2178f8ec0278a6d1
+        internal_properties : BQAAAAUAAAAkIOXJ8WEQyUKauNiKy23q4nqPlLBH04lYkeyragn4gIxo7O9lKAgYthQnEb10jObdsjEQu0JsRbZLkNNSiVbzGRCSFmjfQsLf9CBLYl3hQ3IRolxX9/llrMELE0+46Mii05I0OHvGpvoMB0Khi9S6XsyWEtdjeuQc9MtAKvO1HaJ/PBT5lSC/wY7u64szi9fK+5OLNmC3
+        options :
+         -
+           name : OPT_Mensuel
+           identifier : 0x2178f8fa027fdc68
+           internal_properties : BQAAAAUAAADV07VOYEBYx+dwv/sag9noqLZVsuF8zAVJ9jhsFU2X2YQEnIqzEKWT/7mnvnkUTo3bGIVBeiu3xjxRVRvdJlO0oen/9K3MheU9paNyRlIEGaE2H8cDmRg38LAbFwM21LddUxfpRRQr258Wf8FmEp12FHahxOit5X55U2qPp5C+26GIWH1tDL0qZhtvr8ONRkhAxA==
+           code_elements :
+            type_code : 26
+            p_codes : []
+         -
+           name : OPT_Trimestriel
+           identifier : 0x2178f8ff0281efe0
+           internal_properties : BQAAAAUAAACwko/eBn/xiXPvc1yFDtdqqQ8tMARqMRVZvydQKfzSDnkMogQ4inomkujIgnG3yRV5j+qe1kOPkacxbSlMV+0gbB9YJWignu6g1bBOHvfQiRxWDLTgYXAkKw6uqeEk8YwaLIufKq5k3sabHFo6LziY5NBHbshaFxcBZodrzsgRdnv2fzC6gyCjdUMdMtA1Zw8Y/kAdFQ==
+           code_elements :
+            type_code : 26
+            p_codes : []
+        code_elements :
+         type_code : 26
+         p_codes : []
+      -
+        name : OPT_Comptabilité
+        identifier : 0x2178f8f2027abd08
+        internal_properties : BQAAAAUAAABREP1uCGYYf6rNoFgh0fNtjExO7dZz0CInPNkeJPqYRE001wBhzGw+6U95gYrbNfFZEoAY5/MaDx6cWSb9DYNuytkfaLKqqCo2vTkS1tTWlYyTo3obXGkq5sIkoznDev7+bjPyHC29IT++nY74ojxtuLIZjzD8yKPS0KKVOVyE+y5cPQjBMutHnZd1gNuPLdST3fc3InmE89k=
+        code_elements :
+         type_code : 26
+         p_codes : []
      code_elements :
       type_code : 26
       p_codes : []
