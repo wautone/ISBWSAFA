@@ -335,6 +335,39 @@ window :
          	info("Aucunes heures encodées...")
          	RepriseSaisie(SAI_TOT_HRS_PREST)
          FIN
+         //info(SAI_HRS_BENEFICIAIRES)
+         //info(SAI_HRS_BENEFICIAIRES..VideSiZéro)
+         
+         
+         si (SAI_HRS_BENEFICIAIRES<>"" et SAI_NBS_PREST_BENEF=0) ou (SAI_HRS_BENEFICIAIRES="0000" et SAI_NBS_PREST_BENEF<>0)  ou (SansEspace(SAI_HRS_BENEFICIAIRES)="" et SAI_NBS_PREST_BENEF<>0) alors
+         	info("Données incorrectes pour la saisie des heures et prestations du "+rc+RC+"BENEFICIAIRE ...")
+         	RepriseSaisie(SAI_HRS_BENEFICIAIRES)
+         FIN
+         
+         SI (SAI_HRS_CONCERT_SOC<>"" ET SAI_NBS_PREST_CONC=0) OU (SAI_HRS_CONCERT_SOC="0000" ET SAI_NBS_PREST_CONC<>0)  OU (SansEspace(SAI_HRS_CONCERT_SOC)="" ET SAI_NBS_PREST_CONC<>0) ALORS
+         	Info("Données incorrectes pour la saisie des heures et prestations "+RC+RC+"CONCERTATIONS SOCIALES ...")
+         	RepriseSaisie(SAI_HRS_CONCERT_SOC)
+         FIN
+         
+         SI (SAI_HRS_AIDANTS_PROCHES<>"" ET SAI_NBS_PREST_AIDANTS=0) OU (SAI_HRS_AIDANTS_PROCHES="0000" ET SAI_NBS_PREST_AIDANTS<>0)  OU (SansEspace(SAI_HRS_AIDANTS_PROCHES)="" ET SAI_NBS_PREST_AIDANTS<>0) ALORS
+         	Info("Données incorrectes pour la saisie des heures et prestations "+rc+rc+"AIDANTS PROCHES ...")
+         	RepriseSaisie(SAI_HRS_AIDANTS_PROCHES)
+         FIN	
+         
+         SI (SAI_HRS_PERFECTIONNEMENT<>"" ET SAI_NBS_PREST_PERF=0) OU (SAI_HRS_PERFECTIONNEMENT="0000" ET SAI_NBS_PREST_PERF<>0)  OU (SansEspace(SAI_HRS_PERFECTIONNEMENT)="" ET SAI_NBS_PREST_PERF<>0) ALORS
+         	Info("Données incorrectes pour la saisie des heures et prestations "+rc+rc+"PERFECTIONNEMENT ...")
+         	RepriseSaisie(SAI_HRS_PERFECTIONNEMENT)
+         FIN
+         
+         SI (SAI_HRS_REUN_SERV_SOC<>"" ET SAI_NBS_PREST_REUN=0) OU (SAI_HRS_REUN_SERV_SOC="0000" ET SAI_NBS_PREST_REUN<>0)  OU (SansEspace(SAI_HRS_REUN_SERV_SOC)="" ET SAI_NBS_PREST_REUN<>0) ALORS
+         	Info("Données incorrectes pour la saisie des heures et prestations des "+rc+rc+"REUNIONS DE SERVICES ...")
+         	RepriseSaisie(SAI_HRS_REUN_SERV_SOC)
+         FIN
+         
+         SI (SAI_HRS_DIST_REPAS<>"" ET SAI_NBS_PREST_DISTR_REPAS=0) OU (SAI_HRS_DIST_REPAS="0000" ET SAI_NBS_PREST_DISTR_REPAS<>0)  OU (SansEspace(SAI_HRS_DIST_REPAS)="" ET SAI_NBS_PREST_DISTR_REPAS<>0) ALORS
+         	Info("Données incorrectes pour la saisie des heures et prestations des "+rc+rc+"DISTRIBUTIONS DES REPAS...")
+         	RepriseSaisie(SAI_HRS_DIST_REPAS)
+         FIN
          
          si ouinon("Voulez-vous sauvegarder l'enregistrement...")         =non alors
          	retour
@@ -895,7 +928,7 @@ window :
         internal_properties : BQAAAAUAAAAmnV/4QXbStRb7uc8xBIp+14xXqXSbyHhEQX8xfCkmGmC3VqRjHlpYUV8re9eBH3jg1zwxSD+fGM+d0L1KGhVjUuYe80wMR/l48u1HkBoAoRXTvLUx0cbM+JM45IwCdsZyM0C18g44m8tq3OlsCO+jeM6RyO3g+ck4uy3M/hrGprrF52x8zUvrZE6Gfl2OoB8/YagOAl412uPHeiRSSRQRt8qq6uI/c0uo5gTAjxZ7NYFDZC8FVWzI/8ryMf1AgOfYhlh9du7gh8nVcNTuzztyslcb0UGCaf5pSwI+Eh6GmSvNkqF+AA6p5r/PYf0181h5zjyDXMbpA9XreJE2EDaiG4QTawXnNa059d6Ivuv0zDy5TTgUcMKJ0kAb1++jpI8kn+Zacp/eFYqjVOtWPjvAxBf27ATRuW0OSI4jeaKMdK4k24hnAORoNtGoFqYLbXdepCl5c+54r/NeUr+6maiuUa55vXk=
         type : 2
        dropdown :
-        internal_properties : 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
+        internal_properties : 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
         columns :
          -
            name : COL_NOM
@@ -932,7 +965,7 @@ window :
             FIN
            type : 16
          -
-           code : |1-
+           code : |1+
             SAI_BENEFICIAIRES=COMBO_BENEFICIAIRES.COL_NOM
             si COMBO_BENEFICIAIRES="REUNION"  alors
             	RAZ(GR_nbs_prest)
@@ -943,6 +976,8 @@ window :
             	SAI_cp = BENEFICIAIRES.EID_ZIP
             	SAI_ville = BENEFICIAIRES.COMMUNE
             FIN
+            
+            COMBO_BENEFICIAIRES..CouleurFond=sai_couleur
            type : 33
      -
        name : SAI_cp
@@ -1231,7 +1266,7 @@ window :
             //RAZ(GR_heures)
             //RAZ(GR_encodages)
             SAI_HRS_BENEFICIAIRES=SAI_TOT_HRS_PREST
-            
+            SAI_NBS_PREST_BENEF=1
             
             
             //info(SAI_HRS_BENEFICIAIRES)
@@ -1554,6 +1589,8 @@ window :
       
       //tests
       //int_signature=vrai
+      COMBO_BENEFICIAIRES..CouleurFond=RoseClair
+      
       SAI_MOIS=FEN_ETAT_MENSUEL_F54.COMBO_Mois.ValeurAffichée
       SAI_Num_mois=FEN_ETAT_MENSUEL_F54.SAI_Num_mois
       SAI_ANNEE=FEN_ETAT_MENSUEL_F54.SAI_ANNEE
