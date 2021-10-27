@@ -1,0 +1,2 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+JOURS_FERIES	DATE_JF	CLEN*		la rubrique DATE_JF est maintenant une clé

@@ -1,0 +1,177 @@
+<dataStore nature="strict">
+  <anneeDuRapport class="Integer">2021</anneeDuRapport>
+  <trimestreDuRapport class="String">trimestre1</trimestreDuRapport>
+  
+  <!-- A ne pas completer -->
+  <demandeur>
+    <identification>
+      <numBCE class="String">0111.111.111</numBCE>
+      <denomination class="String">null</denomination>
+    </identification>
+    <adresse>
+      <rue class="String">null</rue>
+      <numero class="String">null</numero>
+      <boite class="String">null</boite>
+      <cp class="String">6000</cp>
+      <localite class="String">null</localite>
+    </adresse>
+    <service class="String">prive</service>
+    <agrement class="String">00000</agrement>
+    <revisionGeneralBaremes class="String">Oui</revisionGeneralBaremes>
+    <amenagementFinCarriere class="String">Non</amenagementFinCarriere>
+  </demandeur>
+  
+  <responsable>
+    <identification>
+	  <civilite class="String">monsieur|madame</civilite>
+      <nom class="String"></nom>
+      <prenom class="String"></prenom>
+    </identification>
+    <telecom>
+      <tel1 class="String">071/00.00.00</tel1>
+      <tel2 class="String">071/00.00.00</tel2>
+      <fax class="String"></fax>
+      <mail class="String"></mail>
+    </telecom>
+    <contactOuiNon class="String">Oui|Non</contactOuiNon>
+  </responsable>
+  
+  <contact>
+    <identification>
+	  <civilite class="String">monsieur|madame</civilite>
+      <nom class="String"></nom>
+      <prenom class="String"></prenom>
+    </identification>
+    <telecom>
+      <tel1 class="String">071/00.00.00</tel1>
+      <tel2 class="String">071/00.00.00</tel2>
+      <fax class="String"></fax>
+      <mail class="String"></mail>
+    </telecom>
+  </contact>
+  
+  <!-- A ne pas completer -->
+  <utilisationFormulaire class="String">fluxXML</utilisationFormulaire>
+  
+  <aidesFamiliales>
+    <item>
+      <identification>
+		<civilite class="String">monsieur|madame</civilite>
+        <nom class="String"></nom>
+        <prenom class="String"></prenom>
+      </identification>
+      <age class="Integer"></age>
+      <immatriculation class="String"></immatriculation>
+	  <statut class="String">Ouvrier|EmployC)</statut>
+	  <mouvement>
+        <item>
+          <dateEntree class="String">00/00/2000</dateEntree>
+          <dateSortie class="String">00/00/2000</dateSortie>
+        </item>
+      </mouvement>
+      <modeFinancement class="String">SPW|APE|Maribel|PTP|Art.60|Activa|Fonds propre|Autres</modeFinancement>
+      <anciennete class="String"></anciennete>
+      <heuresPrestees>
+        <beneficiaire class="Double"></beneficiaire>
+        <repas class="Double"></repas>
+        <coursPerfectionnement class="Double"></coursPerfectionnement>
+        <reunionService class="Double"></reunionService>
+        <concertation class="Double"></concertation>
+		<!-- A ne pas completer -->
+        <total class="Double">0</total>
+      </heuresPrestees>
+      <nbPrestations class="Double"></nbPrestations>
+      <hInconfortable>
+        <e6et20 class="Double"></e6et20>
+        <e20et21 class="Double"></e20et21>
+        <samedi class="Double"></samedi>
+        <dimanche class="Double"></dimanche>
+      </hInconfortable>
+    </item>
+  </aidesFamiliales>
+  
+  <!-- A ne pas completer -->
+  <totaux>
+    <beneficiaire class="Double">0</beneficiaire>
+    <repas class="Double">0</repas>
+    <coursPerfectionnement class="Double">0</coursPerfectionnement>
+    <reunionService class="Double">0</reunionService>
+    <concertation class="Double">0</concertation>
+    <total class="Double">0</total>
+    <totSPW class="Double">0</totSPW>
+    <totAge52 class="Double">0</totAge52>
+    <totAge53 class="Double">0</totAge53>
+    <totAge54 class="Double">0</totAge54>
+    <totAge55 class="Double">0</totAge55>
+    <totAge56 class="Double">0</totAge56>
+    <totAge57 class="Double">0</totAge57>
+    <totAge58Plus class="Double">0</totAge58Plus>
+    <totAnciennete0 class="Double">0</totAnciennete0>
+    <totAnciennete1 class="Double">0</totAnciennete1>
+    <totAnciennete2 class="Double">0</totAnciennete2>
+    <totAnciennete3 class="Double">0</totAnciennete3>
+    <totAPE class="Double">0</totAPE>
+    <totMaribel class="Double">0</totMaribel>
+    <totPTP class="Double">0</totPTP>
+    <totArt60 class="Double">0</totArt60>
+    <totActiva class="Double">0</totActiva>
+    <totFondsPropre class="Double">0</totFondsPropre>
+    <totAutres class="Double">0</totAutres>
+  </totaux>
+  
+  <beneficiaires>
+    <item>
+      <numeroBeneficiaire class="String"></numeroBeneficiaire>
+      <identification>
+		<civilite class="String">monsieur|madame</civilite>
+        <nom class="String"></nom>
+        <prenom class="String"></prenom>
+      </identification>
+      <adresse>
+        <cp class="String"></cp>
+        <localite class="String"></localite>
+      </adresse>
+      <codeIns class="String"></codeIns>
+      <soinsPalliatifs class="String">B|P|Non</soinsPalliatifs>
+      <aideMultiple class="String">Oui|Non</aideMultiple>
+      <aideProche>
+        <ouiNon class="String">Oui|Non</ouiNon>
+      </aideProche>
+      <derogation>
+        <ouiNon class="String">Oui|Non</ouiNon>
+		<nbH class="Double"></nbH>
+      </derogation>
+      <hPrestees>
+        <benefSpw class="Double"></benefSpw>
+        <benefAutre class="Double"></benefAutre>
+        <aideProche class="Double"></aideProche>
+      </hPrestees>
+      <nbHNonAutorisee class="Double"></nbHNonAutorisee>
+	  <nbHNonAutoriseeAidantProche class="Double"></nbHNonAutoriseeAidantProche>
+      <nbHNonAutoriseeTotal class="Double">0</nbHNonAutoriseeTotal>
+      <nbPrestations class="Double"></nbPrestations>
+      <nbPrestationsNonAutorisee class="Double"></nbPrestationsNonAutorisee>
+      <contributionBenef class="Double"></contributionBenef>
+    </item>
+  </beneficiaires>
+  
+  <personnelsEncadrement>
+    <item>
+      <identification>
+		<civilite class="String">monsieur|madame</civilite>
+        <nom class="String"></nom>
+        <prenom class="String"></prenom>
+      </identification>
+      <mouvement>
+        <item>
+          <dateEntree class="String">00/00/2000</dateEntree>
+          <dateSortie class="String">00/00/2000</dateSortie>
+        </item>
+      </mouvement>
+      <fonction class="String">Personnel administratif|Encadrant social</fonction>
+      <regimeHebdo class="Double"></regimeHebdo>
+      <regimeHoraireTP class="String">35h|36h|37h|38h</regimeHoraireTP>
+      <modeFinancement class="String">SPW|APE|Maribel|PTP|Art.60|Activa|Fonds propre|Autres</modeFinancement>
+    </item>
+  </personnelsEncadrement>
+</dataStore>

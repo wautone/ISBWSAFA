@@ -1,0 +1,5 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+SAFA_PERSONNEL		TAR	865	nouvelle taille enregistrement : 865
+SAFA_PERSONNEL	MATRICULE	RUB+		MATRICULE est une nouvelle rubrique
+BENEFICIAIRES		NFI		nouveau fichier
+BENEFICIAIRES		FRN		

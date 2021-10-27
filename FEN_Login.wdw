@@ -1,0 +1,284 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Login
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Login
+ identifier : 0x210e2cd90076ed9b
+ internal_properties : BQAAAAUAAADrN3rVD2dB6DhM3cYtZd8oYUpne/oyUq0gTHXIVCKt7t8GyfcMvqBiH/Xzy/W7vV4dn/IdneufThmKw8jp+Ld3oSx5n0JnGGWG5vgQoxjbhS1z+TPHwU1tzxlUdTeaWMqFRRsZ3cL1L+F54J6gp+Gj09Wu5macYESiaEzMrVHSzeV8MXdspVMCq1hvFlOa93SqlwngUFDQQ4rWR3LL7dBZ9qjShj4GlfRK/+bAKI4zPmJeksgVL/2U3Pns5wvKP+D8IsGDQ94sSJ81i/ntzqCnyahX9eoLSd8vorVegkxUvUU0GL2HlibzDfuWfbWdlJQTVuLee9XuFPHCY/SRVkdTrP6/qiLlPp9C/ikIawaaQ1hDyrhoERH3mO8O9881GX0SinU8zCLHuh424KqGJtRCgdG9WL2mV3ThkkCHG1m4ZInKMN5eGp6+OBqKeFqph0NVX63cOOnwcX626Arq0rEiIGAGKl1OCqSd6CdKpO6R6tyyDLzDXAPjJz5rExMkig8XNvo5q4tYfI+lW0XpNH8TFSxeWHTUe3dLSfu26vF/q5/tem1vuqp2wpJAAyZM2BACHjKg9/MSOMoaK1c1xq4iODFrppUwsAyZpBwnRH4mtorO4ew0AemyJIV7Ro0/VEIVnsS/6W/k2NOXwYF3sLDQong1jWVI5BfQpeG6RxWVxNguvuX58RhkpGKnskL+YpCdGcNeo0EZm6nnypBGG/Ud2ZsI9jGViwwZD/H/52H4UdzOacIIiOomEcVvtCMBU/06z5mDa0gNnLZPuC7rfvRod9udqxdxlm5wtNhWldMsQzPtFXLQtvWsQGokriCDJ0a6LII/N+P5ZkwM8VJaC7Nk5nI=
+ controls :
+  -
+    name : IMG_SansNom1
+    identifier : 0x210e2d3b008c6c3c
+    internal_properties : BQAAAAUAAAC7j1AGbCFeH8xo6CcP+qO8feJV9YTF6F8bArPl3tsWicJ6dISkeT1BoGrjFt+AhExUWHsDasd9RJNJbM2toD9QCwXco6kqpZvKk0PV+GSu2OoL2iGzIgXIGbLvJuyp28GrX4FuoLdCqHCJg/QAb8FuCfMfCQ2DsNQPkUsQ09y1qm+BPOhyVz3uXUhU+m72/R6Tfh6Ym9N2jKByFsHGjQ413v1Ap/a/BgppkVlEfl5LgMEGHf11QKUDLLJOJDWlFWtVqRDQDs9dQ7StDNtoIEvKP6d4UaWZFT1wJCua7xXeiKGFLu0myj6eHXWRQwx7VzqhrffORpLRVDzvi7d6fwXF3IQ8Bs31LaVRgZEwBkzPyk10uIy77OyhYV7e7KnkJaHC3C1NzuTOCCd/HXYkSl08nW+pYEQ8y0M1IUCgLldsd1KSQ9wg18RBYIAcA/skNwrHD4O3HIKNVNmFyg29QbHIf4WKFFgRJIVP/sXziS3cu/MN6E8UlWwHExItMiomshHNoDP+7ge1aKPY6bpGuY95Fcv8lUEllxkbDlzdHrhsfLYT8e0852dcnaqqIUmeNJRfV2zaezw15AEiL/rBQJbx7Ftw4g5GwviDHTQT25zPiUC0HRyx+kvCxi8glJ4GzI3jma/Hh1Vf2NHNQFm0Hed6MuoUw628yky6jruNxal9rJAIjwIF5OxAxZCCpYjam9XKlUocJbAvazBP69fPZVFzTicJ+YBe11p2Ij42OM+b+kb2VYzibfWmM1Lngi54l0zw7BQYtnm/SDcMpv72gybWzpFWHIk3wSDLb6XmsGHjD5dpiFdJxZ81aIflu1aXbXfsV0eLCBjqIo0n/7qPJ++XiAMEmXqggmidtzTOl84tUsbjMyoa
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : SC_connexion
+    identifier : 0x210e307d0254261c
+    internal_properties : BQAAAAUAAABKAVlUwZmxqgtGkxK+s/ktvdVbzfEVuQw01Q0/dRS6Wpt+pl6lXW9vYEBrfaZURXep6nJ2Acmh7WYgXqEXNXdW1ZhFyR7LE1z+6UHf7PYUGYZGNjKP1Av8xzpLdbUzE4s2VlZoQ8K6MCoY4UhIHLTmR0Il0ZuHANkU+Ve/ydliWSiGH/c6pGCxbzQaZoIs9AGYBwopLnwCoinQtcb0GCTKmYlLQJebTZq4m18EU40U5WYIyTYHjvtIKbUqR9YciPqXz8O4zAqiaU76VOk7lXj1yAAII0jvCTyZyCObu2jxkjt20u8U1ihfYbk47DuaGgDE37v+otIx6MBmSz/fxwMLaB5GWdUg9wTqmGWymSmG1GbPVdLx+xZ6zRRZ1HUxyO43XlOz30Mv12l0CTT2wryGSeQvPDSwn7wn/LXgbdh/Lgl7k0neV75HsneYfLybGnbNst6SWzzUCyWOjwib8q4tDIljfMB0yRZivpxDNxA8cEpF/8Woxl+613DeFXkEkEkovxXPmxH2H0897jIaNvf1H3D5QQvrzmml/LszyVZhAzSPK/NiHTHbNFta/rR76nOGZX+hqOBvdOi5CRoRpXWnRiAeGZzbZ1TDBFbtIKa5Kr20qbZ+9vn4mOIPKR8VvqwIhSx/yQW25eCtek2tnjP/8UCry7NA0srkBUrvclxgvGCH5KuxiyJJP5eXvaOkaAHhSrn8gwp8hLrJVCiVLJpM9Q027PQVAYdRfgtmMWGntQPRjKSKOzAqkNvhdzC/nK/iYAA0VkDpdLxaZ31fnOftK5Tvf4vymxA3YgRID7LSExywSe2rVDlpXANh/iqHZKEK3MODfq4Cy/Crr+dObkXG
+    controls :
+     -
+       name : LIB_Connexion
+       identifier : 0x210e301c0236a7f8
+       internal_properties : BQAAAAUAAACCFUV8HJOdET7Mc4JvYG67s8yQZ5BM8qitGz/bEe05i4emGV1ZZIrEcnGfWp9F9WcTg91KlfGF6JAnbQdVelzgDhZpFsEGXVXSz+FFIrboUPJGMuDuvZGHpzvdnVpBG1PDGphk/IC3A0ppAjIAc3BoPo7M1s/yPRM66KqMJvfW92zSZlBlne9loxijdIqxuprvrHFDJJiZ+tcVO2236K4bOB2NhqoMA7lFmGDwBsgIMAsEydzR8qoBCt5RTX/VUsnXs+mScUR1d0dqryo+YZ0GDfScNYzzUZnmWuUZStpomiHYKbnBdvvtMh5ZubFm924GIzmLphU8B2AQwMu12WC19mZpJITeZFQWutU6nFm02yBpYY9ue7IrsCksunmc+ieXMtVBMfk0RDL94HPWgd9A13VSLzpAVXXjk9RMsVMuMJ2rbGvRruns5qd4efLOObUgtz4xANYK6G8lbw6xJs+3Zg==
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : SAI_login
+       identifier : 0x210e2f6f00ab0578
+       internal_properties : BQAAAAUAAAAUSBFiL0o6OajxXNJfN8qnu/XSuxJprAHv00CXUb8M8rKd2GOT05clyi/Ca4ogWtvM8FP4GvMsUdSq91SnaEhmfPlkBARzuSup/u/0qEN7xbcmKrd/OrqA0gNcyxsYJffXAswPxKUJR67t88mFvjn8aJdVoISm5Bmom8GMlGJxbYdf/78FclGiQoDfmqok4HNWmhnv0USfx1lG9U0t6MtC2cd2ce+vmlmSgxJJHmSSsqMiA8RDjyFW+qPLUu3Q4j2o5Ni5rB1XLQck40N0/oiqbmTiB6lGrNNiVuusHdq4V+fPHib6ryG810K4G2aQQhJjx+rbDAqnBY0xnpgITBESGPNije7+wBgAFn68Tn6dpatxpiQvqwHCwhtUNW8DheACGlR8TgiSLGHbNn/O4r28cXDlatklMvxysyFVPb+XMRzoSGJnhS70x86HcPVcjOpH0/0D7/26l4M0iTAvj3OzARdURO/TWpBMh23Q5Ax5U2JrcHUgSON5zN97VB4FKJEWUPx7525a3AtY2lCRO3Zwt2XjGgF4iLF/UADfGksgektvDqdy2t9LO+m2RHSzIw3qGG2m6gzPu8kZX0QOLUzz1cMQk75bu2T6Cwgr9iJjzomRSH3O36dLWw1y2A6DI++hqZ7ojfawreQ4JDfNFYnip8UpwbAkHTzfujUy4ZL19AhkCN51pY8lO538/ixRa7xrj2k+lGN0TsdajopHyOoERIl8OasVdNwzC4H5AwS5R4da2QCl67lvXJw3BoSEglNEDqmbIqp/dz+FQ9C+bYumo7yt5h4XNf8ZzrPMtu50T+DZwzgqPYYerB4DlcCQgHn3NVNSgeNPRJGfsHzEKVi78mlzZ7ARq7yS+iWl2WcuEDfZNt2ElhaaGDC/SSGt+n/newLMTxC2ph818TNALBc/aX6aWUc8eWEps7KtUBOSyd0Pc95j+vWlhJzHdYY4HvRWgLe5WvDJTsY1kCcSc9DJJUlprMUchtaWSL4YsVABMm6aMWTNuTlLq74hqt3jy0RiFXbO3Gr83uAZHX5FFx7EZE2gOXYsepIfGwtVWdB0GQGr2z/f0qpLynwVakNr3JT6azD08CHyVjw=
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
+       name : SAI_password
+       identifier : 0x210e2fae00b7fc5b
+       internal_properties : BQAAAAUAAADDTnuG8Snbf6ifcqNFW88n7mM6ifGLrQ+P4tkgkDCDa5KopWJyj2M8NMMfVs/mq1zUeoFP2Y2WweQyww0XlOXxqbz26yK+Yve3wqestcw7us2+SDUdD8QUSRUlxRiZMnyo3LGZX2os2gxg9FsJycxHyJ+t1FPfApFdF/8Y+X+0/bbTRHOB44gJQXjndu35Zk7tiBJT3TqqxtHmg1SfX4F/wMsIbQeDk3+LkvH3RiXy2Uj/VRkBz/vuEgJeQizlKXNHSF66+4CiEr/t+6+z3MTIjD1W/kaIJrHfzhgEFQVZ00uvd/VQy4xwJ/yZRKR42ouGkLj1PhTl7cHo7/i0QWzvWQIipRUf5twHzSV8ucWBQcEuD3SyTCYSZ3LCAw7q0uPWQNUlYZpOv84S7fq0GchwXZ3mJqYDGfo84N6Qkd8nA0t7CeWnayMqArlKmBdDAolVN13NxPzgqfQ0dUQv/sBVMbw/I+Cp8slWID9oIt/Vq/KYDVfF6sFeMSDCQSl/5oChr2LFNK8T3ZWeP1znLPU216DxbMH5+hArilrXvRsm8TdvuTbNLYDHskcD06fToQKWxjgrYwcY2YghCvlXpRJoo+l5BCsIyghRHVvw33qpFUuVES7TtP733o2BM43XoYQhRVNhMr8jd5lOV4C6F9ElF91q+GPvns5s7Cjd8Ob/V45Ax/uenupvhOWTabvPb51RE0JhU7ALROieseVGNoYTpumrQrigjc4KJwx+NLJNpkduLvXehtop0wAIESNCeu427Dgcx9sS3+IbSjFDGzvRax7Y/wPwyHuwAjRLEeSMVI7LVONJsI8EXSzEOpFOHLJ/W/AVyF4QXBg/j1XBzUJkcCEssk8ICML10jyCWjku+z1TK1bhYe9p4A0JPbnCYXXicNiCaab0z2eiO/EqdcrPlGVYIYvuu8xfUpT5CE5nf2aIsXbPSqmA5G2Vib4T91YZNU394vB124RGEK/+emlbW6NGOS53JxLv6C+b4C6p1aam9ofU1wM0LTdVQpGO1I5uCli4uLebzAEk61yGUzySasHZ5mw8OCq/MElGTb2UrqIl0/Lgy38XI/j2UDLo8QaKph3IMKma3QciOg==
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
+       name : BTN_eid
+       identifier : 0x210e2fd50174930d
+       internal_properties : BQAAAAUAAADN1hK0OAbG8MXT9+X8Q2ljMQIsP+ZuIZMFp7O2jSNF2hLb3cZBCi9OaILXkVIsK3o70nbPF9RHDm3UqAq503wWRNuSN4l40XubOBjA0QeA0hi4PjBIjRG7MLEy+4Dx/s6HYC4gOx0AQzbIbSfXYLJLMKb4uOB+KSw2eTbch5064CncTODdLWqlGC0cUsabDnrKtDYtX3N29E2VeXl7B3so6W0K0MwXYbtcnUDHnaJilBLG9XE6hYuw1W/uNUYwM6vYxkctLfyHt5rtibA2i6fLocXdEtAmvpjnZAh9Og1DUHTkueTE/6B3/GBlH9dYnzbykcJdal15G+aRiWjrbO5jZcFOCM+TOzc5e1EjYWg35qxjPG8LtKm0OGoUd8rzcXT7dqu2sImtI/pUs9XflCmClYk+KPwyR/KUgGDijmAkL/HChh+D0Kk3ZQ79dmp3F4F1UsaRzEylrfAEpp7uLre7Zbo6x0wf3Z5lQ70GnUVczimgRO14Dy8e6EH4YvWGkKUa6eJcAeXElFKm9CTtGxKjgF1YyGCbvinM+NpxqOGmvax54AKQ41vaFBdT9JWlBwzDbbmrwEU9RH1klO1f7RyBgYPdDlhgypWfjSRCKVFyuEufrsLwvv9zFDTOojWJqtXsMfW2+h/3rnRtiZnSgPIzzi1mDtbssagu1eEq5R72zV5RTkYsx9yCTFkN2La4kzb9foS/jQ2vPmPkaWfSKH/gsN/HTE2G7S5AzrWIftG44Kv9nN814MBE/HK6ocrltWC4iWsFNXXNHaFw+VRMkC/xbZYCToPixEU=
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            ToastAffiche("Chargement des données EID ..",toastCourt,cvMilieu,chCentre,BleuPastel)
+            EidLogin()
+            
+            HLitRecherche(Utilisateurs,login,SAI_login)
+            si pas HTrouve(Utilisateurs) ALORS
+            	erreur("Utilisateur inconnu dans la base de donnée","Veuillez contacter l'administrateur")
+            	RepriseSaisie(SAI_login)
+            sinon
+            	si Utilisateurs.EidPassword = SAI_password ALORS
+            	gsNomutilisateur = Utilisateurs.Nom + " "+ Utilisateurs.PRENOM
+            	gsNiveauacces = Utilisateurs.niveauacces
+            	Utilise(FEN_Menu)
+            	sinon
+            		erreur("Mot de passe EID incorrect")
+            		RepriseSaisie(SAI_password)
+            	FIN
+            FIN
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Valider1
+       identifier : 0x210e2fdf019eba7b
+       internal_properties : BQAAAAUAAABxlPIjeAr7vAB60vu2rvar6Dh8+nLi2+XlUMXawj2SWaDeYervGZLZ8SeYm4pdIpY5W1MDdIIPQrdA71C5CWO51Yx9NfbeXGxuF6PJGeBu+YP4T8URp4quy6TBHaleTkRpdCvv943MW0h7a0zqFnfmMQuJu1O34EKs61i0P/CJ8DWySSLwm/I8R0gSFombv/IZkoTfpJnAiGpSxhUSbfMqxsy1PeZIh3mVha76Vv+5z8gRHO/4vVIB8zcfXCTltCLUW6nhOnML0GZvsps4Q1FHWgDaMIGQqtBbPqPTIfGzLUc0VyPRhHT7r1PRK/VCsDXLOEslzWR2I+gbvFqBP/pgLLSPf4j2jdYDuI5jdchXg+nrayMkdOLEcrQq6toOiDDbt/+trPs1++bYXuXIAR7C9I3Xf4gzURTn0EXuztSrVsO/7NbRm3lClEDshi6uZN4ZFkg8xTprijedbbVboSxwXeVsvjDr1fKhWUO3s5cKE8kbsPAvqgGAKILJkjHrz0T28l5slDH6zIvGD/C99gqZIfBfvBP/glVeqNX3JGk1nCGz4W10Xbz3qK6qcTPhMdOlK6grldTbNp1AwqB1nZQBrHPmbcVmsLn66XBFcji9nbCsbD7AS53cS/Nak8pL4SB88Mvb6Cn7tgpgK11lP+Hgl1VBETLBwKqj1zQ0Sd+LtjPBZnK2+UsJGvZsUBymYy4AzexmxRr7pnT35qGQvY2Hvf9bgqbYi6PfLqwIwiwbOUptd+CcgVgZCh/JkdLsAdlKMVACS0FmowyYNLnBgnJixU3YYLZKuIK/YhHIfvR+
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1+
+            HLitRecherche(Utilisateurs,login,SAI_login)
+            SI PAS HTrouve(Utilisateurs) ALORS
+            	Erreur("Utilisateur inconnu dans la base de donnée","Veuillez contacter l'administrateur")
+            	RepriseSaisie(SAI_login)
+            SINON
+            	SI Utilisateurs.Password = SAI_password ALORS
+            		gsNomutilisateur	= Utilisateurs.NOM + " "+ Utilisateurs.PRENOM
+            		gsNiveauacces		= Utilisateurs.niveauacces
+            		Utilise(FEN_Menu)
+            	SINON
+            		Erreur("Mot de passe EID incorrect")
+            		RepriseSaisie(SAI_password)
+            	FIN
+            FIN
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Annuler
+       identifier : 0x210e2fea01fae728
+       internal_properties : BQAAAAUAAAC3rHdhNst01EHj3hkV9itIQb+O6KgwPwdGDjqrdq15Nf51KXzNbEt3NNR7cX/zQ168t7hkLh61rN3wQafReinkZfKIJH/j6IQR0yL1jd1em9pfRBibtv9bVJDlo7jG48Pwbw3BLzS9yanbsO4bbTnjfDGdeyruUuR1f4QPC3VYEWjY7+ak//BNa878OoT/N3FWdYWZYfJXFVVfRF19FssR2mv+7YFUr6st1aViayyQZ6vwRKZFk+CIWvAhloH0rTxciFqcCqUxX/Bm5DxgERhfncJOUa/RBhjIGHnb9qeku1F1d0n9spyWQTNBYnLTaVazNngnQ7aZwcXTPvai2FzvD9BBmJnDIpVliRezrzJxsnAX9pdW/oTY0ko2grVtIRUd0fz7Tvom1fKd2hBo8IB3MHVHY9+MEzgV+OvNvjSUHk92/43gzdfzO7MQA1g0dy07rMTxkb5ZucDVxMH7ipf8I/lM1iZx0UYyvHawB32j/PZChTHne8375MIh/iXeW5FgXlPF4WBkmyQZbrf0aKpDDqW2H06rtAg992MpYBy5IhylLk/Q8ppHRYVkcuOdmJqZLGmyeyu7MHrQlV5XYa2HNNyfGCS9F3EiwSN2vDdIDQwgva1mlbrxmPn6Fc2siQno7svFfsWJITZLpwM7Z+CDxWcTgj3kEBFNSXa8iTUww5tLINHTHGE4Juqg2Nz82iXbIPd+I258wI9GlaoBwvVRjI4ifi3xfK/wOayfSkoEpIaDHSfB3XRDI2It+6zf6gJLe3UjYiDGd8FFQWZ0+rnj7kTTLEatOnwoWdvpFmfssBEndvhVC2Dtlw==
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : BQAAAAUAAADlg+MZNL4UeN0CScoq3Rxf5gUg+iFD8TrM0IfnmXTmBKnXFNpcar1erZwYI1JZ4ul1VlNr8SlCSqUmSE/t8z2z4c2+cp3Psfdy+iN4xUHIwl5xUoKjn7dnHGqeRB4bYV3hoAh6uZDhZG7DA8DKlJ0/EDI8mUO8cvaPRnoI7rwYYjpPF/Vtuayt
+           type : 18
+         -
+           type : 161
+           enabled : false
+    type : 40
+    code_elements :
+     type_code : 34
+     p_codes : []
+  -
+    name : LIB_titre
+    identifier : 0x210e30c202713394
+    internal_properties : BQAAAAUAAADdsJfI22EXU9rrz7P+gqU+3DNS6NKLhs9yepbjapGugcVoSB4ByJYhee67Yt/eKkB3CdHlgSb/LtkZ5cmQ/YDMJMBS6sZEmK2VI57uQUSJWz+3q8ojpeAL4fjFLGxzS14QbMYwFmPvBM3Ng8JCPQn5Q+B0jDl74ek6bOMXzU8VYrlj5PHhIHB2gsEzeeOu4LziHklsfklXK6f3UfaR8tYr6UNOatM5HTsKksk7lbfIMjka4DxVDxyupW02Pw+T1rpYHI4K5XisaFscia/8OenVeaVljpuhFOdoPIXXEuxKUqyRDjtsmSXZmiz2tBHv+9ifL2D+57fpsVrfgYVFT4Vd7AxITmeQHSFGpoFxv/fTg3aozU1CZ/xBNn6MNbB1lQYtLESFljpAEYcvAaDdaMMw0tmYWLt4tb7/oaINi1Tur+oMq6P8dpk4TScL5MOwD9pAxrBwiwrR6Vaa51CCwlRxR3WiuOsIFmXiNJWc2sgi
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Version_de_l_exécutable
+    identifier : 0x210e311202b96926
+    internal_properties : BQAAAAUAAAAqTfFJE48GyLHxX0WYDAzD805alWWBQeH7OT3gmUPLibm16ruo3E3dyyBXYlaS9/CupHMyhrbACfErGcpyfvjDn/jXkyr5s0QBwYcuOQOI4QJ0i5fPuxxJEP3PNyIimM8QirNKzgOg5nEue70etZwh6eyw5CRarDlZNPR3llbzkm/PtwRZaMpZVc0pAtbyAi6TijpmBgGH0egixMvthe8E6hh7BwkzOtNQruioTcvDJh8dWXuNYeSOSURI9EgFZx9NMMgP6pqIKyaRGYXwyh5eKh2MYciDzSi4z/DYZGCT8kXV7km2TMvJjmGKqNDsvs57Y2SoBfH05SJPVHDQxheOZhcBxUcidJ32m6b8ZhpzBEzx/qMWnXoqFZQ0zRinHCwx62DpCyIzKzJWN9jQDvSHJvVoO3Mho3FvwBRDW35TCXDnNjn3AR4GWrtmmy+BN7VYJqYrWkIjJzxWXOZC+PvBkxY1zg==
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         moimeme = Remplace(moimeme, "[$EXEVERSION$]", ExeInfo(exeVersion),SansCasse)
+         
+        type : 14
+  -
+    name : LIB_DateHeure
+    identifier : 0x210e311c02ef9259
+    internal_properties : BQAAAAUAAAAOQPGbfCi0o0uJc8U7I8AUncfUHHDTdudy4/9j7kg0FcuTcluCrZlBTwyHaRHBfwuWkf83rfoMs+LEoq3IEYlFQd73E7P7u2TIqpvKkAzlQmaHNHJpFqKHH0G6TaYh6rsy0ADqAwWrVkhq0Ao04skx/FRauH5G27BISwdodCzH79KIiQn4+tfO5swS4pAaGH+uTST0Zj98oSdEZzF8wBu1uQIMYnwczFPjFUdTOYUEqEugnQYSMLtsyfsaxAJDM1uf4gYX0uLA63aBc0FIIrD8SBs2R9A7aUS0P3aqcnKnhnHpJv8iyE9NUjkyzjyIJsHEmxJ70isnjiv04edBPRqzs8wy4MS0I024HUdDFJbMi8Dt9qMwlBhGmo3/E+aTFh60U/gUDwSHAyF1S6wFn+J35MgtVl7GujCUi7eRd71bZVcWeEnskLPMwYqm7Rk0hMS1qK0mjt9PcjlOdhO6ct0p+dl0QTUvkQSVJV0N9oYVnDz9C+w=
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         moimeme = DateHeureSys()
+         
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAACJj4O8dg1asjuM90/7BZobf9cXWWo/crVDILRk/p3e8SAf8eZM5DHmP70c9G9kr3nPdqKr8AwY0zxkRwdJb16iBAkbkK8Bi1TA8tDyKTPdJkiP9sF4CqGBJs0hULirrcckt1CzHsuf8cX/va50RbjbGAk26QONqeyxqE1G
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : EidLogin
+     procedure_id : 1228974436138157764
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // EidLogin ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      PROCEDURE EidLogin()
+      
+      gnHinst		est un entier
+      
+      //gnHinst = ChargeDLL(sRep_swelio)
+      
+      // Chargement de la DLL lecture carte identité
+      gnHinst = ChargeDLL("p:\logiciels\SAFA\fichiers_speciaux\Swelio32.dll.")
+      SI gnHinst = 0 ALORS
+      	Erreur(ErreurInfo())
+      FIN
+      //
+      //
+      EIDIdentity est une Structure
+      	sCardNumber			est une chaîne fixe sur 13
+      	sChipNumber			est une chaîne fixe sur 33
+      	sValidityDateBegin	est une chaîne fixe sur 11
+      	sValidityDateEnd	est une chaîne fixe sur 11
+      	sMunicipality		est une chaîne fixe sur 81
+      	sNationalNumber		est une chaîne sur 11
+      	sName				est une chaîne fixe sur 111
+      	sFirstName1			est une chaîne fixe sur 96
+      	sFirstName2			est une chaîne fixe sur 4
+      	sNationality		est une chaîne fixe sur 86
+      	sBirthLocation		est une chaîne fixe sur 81
+      	sBirthDate			est une chaîne fixe sur 13
+      	sSex				est une chaîne fixe sur 2
+      	sNobleCondition		est une chaîne fixe sur 51
+      	nDocumentType		est un entier
+      	bWhiteCane			est un booléen
+      	bYellowCane			est un booléen
+      	bExtendedMinority	est un booléen
+      FIN
+      
+      
+      DonnéesIdentité	est une EIDIdentity
+      
+      API("Swelio32.dll", "StartEngine")
+      
+      Multitâche(200)
+      
+      SI API("Swelio32.dll", "IsCardPresentEx", 0) ALORS
+      	
+      	API("Swelio32.dll", "ReadIdentityExA", 0, &DonnéesIdentité)
+      	//Trace (DonnéesIdentité.sName, " ", DonnéesIdentité.sFirstName1)
+      	SAI_login					=DonnéesIdentité.sName
+      	SAI_password				=DonnéesIdentité.sNationalNumber
+      SINON
+      	Info("Carte Absente")
+      FIN
+      
+      API("Swelio32.dll", "StopEngine")
+      DéchargeDLL(gnHinst)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x110e2cd20003d001
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,408 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_MENU
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_MENU
+ identifier : 0x2128ff2001253978
+ internal_properties : BQAAAAUAAADT4pzFa9c2m/LZ/XO+vn4p2ZDT41ws1rlXHMIKnsXl9y1MQPBuCA2NjUJ1dWxMtTuefsQNMyNHLx4aJLu2HuNaapX0BnIPgv5I/ZLs0RUucolfPqqQ9eahVBQMBML6/6/bBq5ZKERTZPRKZk6IvpIBibqhkAxu6zLXb/UFBVju46vIWA6eLmlRKeHWvYbAKRfo961f5madVBVUwXjfN7Ca41yG09ulZKp8KuGOJSVbU/ItnmUU/2Cak8/8gv1f+VJ3IFzhwPpxCnSj4xukj2/3yrMLKAtDvq672In2CxPmQO7YGXRmMUIlXmfFO6KgdvoFsyr+zBaONZ8KC1LDGQ9IdiMJGRrzUvSL8xjDEYnX5bzK8s5bMGIeqCyWXd4Y4U0dqrXYsGJUJnsKmgE1SqO1hhwL50QauMUycKv3UVj2IEzpLlfPNxwspOF8HGPFs0Q0E3xsUjGawxACaI+3KFrT26qEkDuxjzjP3691T1gc2AvrenVn5P+RO+4vpuNCrYSN/ogEDrB3rA2d9d7JniosAvdhxAsMs0Ff8vEmwXwWW8oknYqbtWAvtA+B+7zSildYXrbOAywbnSbEanwLJDQrwRnBoQRiQhF6ELEPdYgkF/3h2Aj7FRR7+AcOTUae9Pz70HBezARFL1C41rWGkjCsCW6DBo2CSDqP4AD/r1DK5ToinxBFG6bHoRhmUHtC0Gjs9N/DYSGDnUTSh0Jj4/TG1eNVKJGIgrp/AuO9x6dJLfRC/elHIRvl5tkxFHlsCaF/oxC3C51W8IsgwOKOnDH0+R52Cc1v13Xo+A5uvLJJ3hC7NssVSvR3Nm3fPI8tpVLvayeQZknxa5njevpqKhGJR0848cnFP2oYf2Y1J3/rIXIadIzWMe8nIq20xBS7QGFF9hRYJxpDylKac/GqgAyqUj22Nb70hLmjHPJsGvayAO3+oU8/3DXM3Eq8f9TUKYa+3gZdg4dhgSSuLLBQL+1mODvHjUc9/ts4JFhLx0LtGk1BybcE/xwTEzv2GJd01WXbBN1ICJdCmxnvvPQRBZ2W/pA91V47iOXDqFZx62veRpvxVE7DRweRA8ab/+KLwQPCRk0UzLAn34JzhCmFc8MrBSEZkqCnzh0qeUtyPiUvj7hqF6M7j+DoJkLpS1Y5MI7DA82jiOhCOYYWl0WsFfTAVQ==
+ controls :
+  -
+    name : IMG_SansNom1
+    identifier : 0x2177b5960a7e14b7
+    internal_properties : BQAAAAUAAAA0WYQYFJhuJ26Bf4KjBwrOWy5fQHavLMF7iGTXxoQjLXqxK4/U+RNsbIohGyK3686tSrGDpaotgnMkoZqmAim12mJSYhiNE6j2vNLSswJ+l0X7/BTu9YsHiPxDS9+qGWEfBkIXw92W2qOfeWyvVs6x8ijD6U+6rMxwvFvy1NtQw5lLVjHAAwek2TxQ2Cb/w4MUHeka1nAYWb6OSup0gHTfz447FOlNbPQNBc6zPWCyNbEuk9By1ovnP8KIND1r2I8ueX6cRXtHJ1N3mzndA8cCQcIahayUZF8SY1vnxubHo0sqMTnjErq36w0inT5mWzcse+HQVz6Vp7v/cJZnSHWbIAa/W9yNutDRD0ccWY/goU77/GvdbkmAxR8jtDu0YTY1n6p8BtMh1tZ9tHoMIbcfnINLUErTFQ6RxqsG6QF7vPHpNiD+EwzPBP8ykl+vGkEOIjTAJao1/wQKZRZhsdEgJRN9fVDy7IrJT4lXU1+SMf8OVF2hVcWz5NTUuu2PmrKjh+/YOOJaa6DDJfaZJNnjqtzmYjLBV1N91Ywm4P6OVoDi4Ye0cd8vvcVxBYdDzczwdmgkRupoWlfeISAZutuNi79/UdxD2iaEQDd02Jqc6odQQo4mKCOFCrM5pyMIH6klM6P0m+mFHFf41UfMLWfruw5bUvmbZhFzBTM1sVJEK+YTuETJCnPyBTBsmo+MyDbhFSa+BjnAQtV5+LU8CE7EV8bw5mapQS56HgxnH2HFgecPH4UB17vJXlJSSCHtRZsfHvvFk/gVqrbQ/5c7m9IpgBqsHnnThhK2WSkCbhrDGiVa1S4tHRWsYpif3JcvKk1+M1ZHLuc26ZLo4YxZJcpxIHmMb4D13IW0AMyWFxaeWMEF
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAABiuZ6sJ3EE9153/ETiC5398eaUPut4c6YHEXkEYESwtF1So11rQmBZD3c/ZZuMGAClJoDjYNMq3UezDlEf+VG06MxcmcBvxycBRF0o2xSiWGZG7/NKwAeQ3dsPJby756J14qm9rZG1g3zce2arFIxNxBc3Ooom+xwFoM7FLsICKzXUaww=
+  options :
+   -
+     name : OPT_Menu
+     identifier : 0x2129002f039c5b93
+     internal_properties : BQAAAAUAAAB4vbQi15XKh4/doaCEVTKUEc3hrcP6R1S08obBaBJwRVijp5zD0bU4z2vt87MLxn2Pd3jyLCc3Q7gPEozEyTK+LxIdG0RLl9FMPqekXSFgEt1bomI+//CI41+TXpg8GIC5SFpjWx0vpXbdLS1f/MIxuo2HagwdCGHuZ296j3YNco6QGb4afeBvt/WYltPE
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         code : |1+
+          //hferme("*")
+          ferme()
+         type : 32
+   -
+     name : OPT_GESTIONS
+     identifier : 0x2129009c03a804a0
+     internal_properties : BQAAAAUAAAAN3WFTl30RmuBGnnLTz5/5T3Fz8ZQBXZyLhWwZ1feC/XW6zOr/nc+ovkz2bNzXvqkW7S2cLT/fKX4CFygTviA6GwQpycPVDAe03444xhBz6IPk7heZZ9hM3yLaEcf5SatMuiJ6biPJRe7z4QSIvQcp7lGScTVrNPGsAb9IX4fZ5kfVuYwoSfkWahG4Tg9VzhStnkj/4QdU9Q==
+     options :
+      -
+        name : OPT_PRESTATIONS
+        identifier : 0x212decc501ccf786
+        internal_properties : BQAAAAUAAABvm4rM9XUe6Tma/ThYfUmWSRRpVfE0c6HOI1rgjkgbi1uHtLK+nUeslyxLMlhJl2uVYPnjcPS7c7f/qvT90ZsGCCp+4AXSo58eRIdlHEvM73iMpyOE5iIMFjx1cmItUZWRfDOZoM5iiwoC+AQG81K53zl7O5Q749MPm9JrSZgIeAB5CrAtLT/F1gbJbWmecLmXL6LOOxts
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             OUVRE(FEN_ETAT_MENSUEL_F54)
+             
+            type : 32
+      -
+        name : OPT_PRESTATAIRES
+        identifier : 0x212900a603ad2bbf
+        internal_properties : BQAAAAUAAABdaeKN05GB62E762Zb9gdlUQd9hBaRC1bgfRmkLeYgtFW5GP5/3uJJB02ff+Y8fpIWesUx4k+RNaSf/dQo2f8+Os6Vh1swvp5ARfiGVk+4IQdPPJFNtsu/3gCIwTSjdAdXbYzGkSfrZxdsFVkxXN2tqyU0BY2zfoq8McImQJfQxDeunxAKXgWEEnB2ZwMsrgJtSxXIeA==
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             ouvre(FEN_SAFA_PRESTATAIRES)
+             
+            type : 32
+      -
+        name : OPT_BENEFICIAIRES
+        identifier : 0x212900b903af75a9
+        internal_properties : BQAAAAUAAAB6tZZXIan33guoYyEDpipSkn5BCGVtl8A8JH3PWgrM88a4lwqUVJRMcbRh6myd5YRp0jFn+7sPIc7U6QxpU30aVj9noEJs7ODiwcl06UGrhoWKqo0m147Fr70vWigEj3tzuT0cBmLTy+kjWnGTvSCMRweclkNiHQypL0r+Q9Q7z0jP1GSVIJWWyX857hIIird0PlBu+aKrmLI=
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             ouvre(FEN_BENEFICIAIRES)
+             //ouvre(fen)
+            type : 32
+      -
+        name : OPT_FINANCEMENTS
+        identifier : 0x212900e403b11e8c
+        internal_properties : BQAAAAUAAACbd1pSkNo09PSdqGmvlqCvzIdWDiJFC6dcTy9DNYOeqhUA+j2bdQj0uFrZuJPG8RaiZLqs2JOBcsNBcevsNK84QdeEy5o4NR2j7MM3d3KHwBPAAwuv7zHrdoROOl0gKgtVLj2A/LL0wVrmBAojWZJavCOuAqdwTSd9exqT2XlwcxonvIRZyY01dnSlpbEMqG+Sghze76/4
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             OUvre(FEN_Table_PREST_FINANCEMENTS)
+             
+            type : 32
+      -
+        name : OPT_COMMUNES_BENEFICAIRES
+        identifier : 0x2129628100e66a1e
+        internal_properties : BQAAAAUAAACbnuh/AKWCBxSYfQL7W5OkIj84Ee0VTy4y4ACnIi6zFh1bto2XzmOUswlOVE6Vq17LgCgBQud0w0aEL4904F7X9aswF0BbG2nZUwavCN2QVkRrBfhxy0ZIqIrgtIUd3Hg0oJbgcFfmYb4fC7Zka8aed2JeuxNL/QrxxEmjiEbitJaCovdBwcJZjQ16hO25MxI+nrVqJ2RzviMGkJzFsXyP
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             ouvre(FEN_COMMUNES_BENEFICIAIRES)
+             
+            type : 32
+     code_elements :
+      type_code : 26
+      p_codes : []
+   -
+     name : OPT_PARAMETRES
+     identifier : 0x2129006e03a350f0
+     internal_properties : BQAAAAUAAAC7gx/l5PD+tZWtdbd3oaNYEbaI4OTcxxdM2hIWep5Z4wOohiwXRx061CI6ZZXxcLbjlBIb4vW2h6HI5V7N/37tbFlU/rnA6DR110VpIs2x0/Lbl9f3U3kw9btkIgmHcO+xc/bm+XW9U1r0eZ0zUQAv1vhKrYR0DOVjGZcOFH7P2DFcjuuRHz0Bsz0NsauLwIharEoRIzZdmTkR
+     options :
+      -
+        name : OPT_UTILISATEURS
+        identifier : 0x2131e7e1013626bc
+        internal_properties : BQAAAAUAAAAjL+Iq2LIMfAwFIPEnDgjnhM+OVnqtc79ERzc7PeuorPdSpBvtgZ2Ls51Q5ajTcFclh3Odyc7B0oPBEQvMVG84AbfEq3pYtb2jLOMHJ8LX8CPwE/ufvyE7BhQeio0wejtlXOPozL6iSSIs0uT1zcBuUN8ydmOwyZ9lkyKL0XF4ewIPlLwREdX9DtwdLTmUIOdq2uSGN2ew
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             OuvreFille(FEN_FEN_LISTE_UTILISATEURS)
+            type : 32
+      -
+        name : OPT_ANCIENNETES
+        identifier : 0x2129017c03b66e77
+        internal_properties : BQAAAAUAAADcKIc76EAD+KirzmnrwtpnvimOqEwbUGSZ2NdtFc22vnIeRPqDa720m3JFAgbJcTuHiuG1fvCzL5+loBwTaV32uuSeEj/Cv3O+xsUCOSjXOu37xpor74fRq7v0g4MKADwO87qMy/OjsH+x14WjsC28yJASkoN4EvxkIFfu1O29s91eZ9MIChIWZ5danFiPAciEHJfZLmi/
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             ouvre(FEN_JOURS_ANCIENNETE)
+             
+            type : 32
+     code_elements :
+      type_code : 26
+      p_codes : []
+  code_elements :
+   type_code : 26
+   p_codes : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+  controls :
+   -
+     name : CBM_Utilisateur
+     identifier : 0x2128ff3b012aa0fc
+     internal_properties : BQAAAAUAAABdJoTDGu5q+/HFybyimLXihUdn78KcBT7DPRrg9unXNVX3A2xLtf4Uml1DToaD7mRVSjz8eTts2vROE/XXTezyJWb5Q5cCdLU=
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+   -
+     name : CBM_Niveau
+     identifier : 0x2131e514010b345d
+     internal_properties : BQAAAAUAAAC52LBCWGeML8DwNZi0OIPgMgTsyXSYYxE1HvwysBwTQ7XwlQ++hrEagn3VB88UD9W5tkC9Rna98fe5W3JHdJKauqKstlU+uaBF5nGB/YOGpQ==
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+   -
+     name : CBM_Date
+     identifier : 0x2131e514010c345d
+     internal_properties : BQAAAAUAAACCBdELSeN2q9P7PXb+sfd93Zih2LZeBJEQuDB7a55ahrsLTc006V0/Qd/6KDna13NXHXwqTxnSqLtMbRTtC8piBXW6ISwxZ+5ynhvv/rvPt2Y=
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+   -
+     name : CBM_Heure
+     identifier : 0x2131e514010d345d
+     internal_properties : BQAAAAUAAABCRRHLiaM2a5O7fTa+cTc9HVhhODYexJHQ+HB7a14axrtLzQ306V3/Ib8aSBn699N3/dxK73nyyJusjbRNy4qixbV64WzxJy6yXluvvvsPd6Y=
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1-
+      
+      CBM_Niveau = gsNiveauacces
+      CBM_Utilisateur = gsNomutilisateur
+     type : 34
+   -
+     code : |1+
+      
+      //HFERME("*")
+      ferme()
+     type : 2
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1128ff1a00091f68
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+  strings :
+   -
+     text :
+      fr-FR : Date du jour
+     index : 0
+   -
+     text :
+      fr-FR : Date
+     index : 1
+   -
+     text :
+      fr-FR : ce mois-ci
+     index : 2
+   -
+     text :
+      fr-FR : Facturations Fournisseurs
+     index : 3
+   -
+     text :
+      fr-FR : Commandes Internet
+     index : 4
+   -
+     text :
+      fr-FR : Notes de frais
+     index : 5
+   -
+     text :
+      fr-FR : Version
+     index : 6
+   -
+     text :
+      fr-FR : Commandes bloquées
+     index : 7
+   -
+     text :
+      fr-FR : Historique des dépenses
+     index : 8
+   -
+     text :
+      fr-FR : Chiffre d'affaires
+     index : 9
+   -
+     text :
+      fr-FR : Ventes
+     index : 10
+   -
+     text :
+      fr-FR : Ventes
+     index : 11
+   -
+     text :
+      fr-FR : Commandes bloquées
+     index : 12
+   -
+     text :
+      fr-FR : Chiffre d'affaires
+     index : 13
+   -
+     text :
+      fr-FR : / année N-1
+     index : 14
+   -
+     text :
+      fr-FR : Historique des dépenses
+     index : 15
+   -
+     text :
+      fr-FR : ce mois-ci
+     index : 16
+   -
+     text :
+      fr-FR : à débloquer
+     index : 17
+   -
+     text :
+      fr-FR : CM_a-rembourser.svg
+     index : 18
+   -
+     text :
+      fr-FR : Version
+     index : 19
+   -
+     text :
+      fr-FR : Facturations clients
+     index : 20
+   -
+     text :
+      fr-FR : à rembourser
+     index : 21
+   -
+     text :
+      fr-FR : Notes de frais
+     index : 22
+   -
+     text :
+      fr-FR : Commandes Internet
+     index : 23
+   -
+     text :
+      fr-FR : en attente
+     index : 24
+   -
+     text :
+      fr-FR : en attente
+     index : 25
+   -
+     text :
+      fr-FR : Facturations Fournisseurs
+     index : 26
+   -
+     text :
+      fr-FR : Facturations clients
+     index : 27
+   -
+     text :
+      fr-FR : en attente
+     index : 28
+   -
+     text :
+      fr-FR : CM_TDB_calendrier.svg
+     index : 29
+   -
+     text :
+      fr-FR : CM_client.svg
+     index : 30
+   -
+     text :
+      fr-FR : CM_fournisseur.svg
+     index : 31
+   -
+     text :
+      fr-FR : CM_internet.svg
+     index : 32
+   -
+     text :
+      fr-FR : CM_chiffre-d-affaire.svg
+     index : 33
+   -
+     text :
+      fr-FR : CM_version.svg
+     index : 34
+   -
+     text :
+      fr-FR : CM_bloquees.svg
+     index : 35
+   -
+     text :
+      fr-FR : CM_historique.svg
+     index : 36
+   -
+     text :
+      fr-FR : CM_ventes.svg
+     index : 37
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

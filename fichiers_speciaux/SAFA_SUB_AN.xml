@@ -1,0 +1,91 @@
+<dataStore nature="strict">
+  <anneeDuRapport class="Integer">2021</anneeDuRapport>
+  
+  <!-- A ne pas completer -->
+  <demandeur>
+    <identification>
+      <numBCE class="String">0000.000.000</numBCE>
+      <denomination class="String">null</denomination>
+    </identification>
+    <adresse>
+      <rue class="String">null</rue>
+      <numero class="String">null</numero>
+      <boite class="String">null</boite>
+      <cp class="String">6000</cp>
+      <localite class="String">null</localite>
+    </adresse>
+    <banque>
+      <numBancaireIBAN class="String">null</numBancaireIBAN>
+      <numBancaireBIC class="String">null</numBancaireBIC>
+    </banque>
+    <service class="String">prive</service>
+    <agrement class="String">00000</agrement>
+	<amenagementFinCarriere class="String">Oui</amenagementFinCarriere>
+  </demandeur>
+  
+  <responsable>
+    <identification>
+      <civilite class="String">monsieur|madame</civilite>
+      <nom class="String"></nom>
+      <prenom class="String"></prenom>
+    </identification>
+    <telecom>
+      <tel1 class="String">071/00.00.00</tel1>
+      <tel2 class="String">071/00.00.00</tel2>
+      <fax class="String"></fax>
+      <mail class="String"></mail>
+    </telecom>
+    <contactOuiNon class="String">Oui|Non</contactOuiNon>
+  </responsable>
+  
+    <contact>
+    <identification>
+	  <civilite class="String">monsieur|madame</civilite>
+      <nom class="String"></nom>
+      <prenom class="String"></prenom>
+    </identification>
+    <telecom>
+      <tel1 class="String">071/00.00.00</tel1>
+      <tel2 class="String">071/00.00.00</tel2>
+      <fax class="String"></fax>
+      <mail class="String"></mail>
+    </telecom>
+  </contact>
+  
+  <!-- A ne pas completer -->
+  <utilisationFormulaire class="String">fluxXML</utilisationFormulaire>
+  <nbMaxAnneeEmploye class="Double">0</nbMaxAnneeEmploye>
+  <nbMaxAnneeOuvrier class="Double">0</nbMaxAnneeOuvrier>
+  
+  <travailleurs>
+    <item>
+      <identification>
+        <civilite class="String">monsieur|madame</civilite>
+        <nom class="String"></nom>
+        <prenom class="String"></prenom>
+      </identification>
+      <fonction class="String">Aide familiale|Garde C  domicile|Encadrement social|Personnel social licenciC)|Commis|RC)dacteur|Garde RC)pit|Personnel administratif|Garde enfants malades C  domicile|Technicien de surface|Ouvrier polyvalent|Chauffeur|Aide mC)nagC(re|Autres|Aide mC)nagC(re sociale</fonction>
+	  <dateNaissance class="String">00/00/2000</dateNaissance>
+	  <age class="Integer"></age>
+      <immatriculation class="String"></immatriculation>
+      <statut class="String">Ouvrier|Employe</statut>
+	  <mouvement>
+		<item>
+			<dateEntree class="String">00/00/2000</dateEntree>
+			<dateSortie class="String">00/00/2000</dateSortie>
+		</item>
+	  </mouvement>
+      <modeFinancement class="String">SPW|APE|Maribel|PTP|Art.60|Activa|Fonds propre|Garde C  domicile Plan Marshall 2.vert|Autres</modeFinancement>
+      <nbHRemuneree class="Double"></nbHRemuneree>
+      <etp class="Double"></etp>
+      <nbKm1sem class="Double"></nbKm1sem>
+      <nbKm2sem class="Double"></nbKm2sem>
+	  <hInconfortable>
+		<e6et20 class="Double"></e6et20>
+		<e20et6 class="Double"></e20et6>
+		<samedi class="Double"></samedi>
+		<dimanche class="Double"></dimanche>
+	  </hInconfortable>
+    </item>
+  </travailleurs>
+</dataStore>

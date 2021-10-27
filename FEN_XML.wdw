@@ -1,0 +1,303 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_XML
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : Exemple d'utilisation des fonctions XML
+ subtype : 0
+window :
+ name : FEN_XML
+ identifier : 0x216541f202e703fc
+ internal_properties : BQAAAAUAAACyd0jaVAf9nVkxRnZMtE2QudJkymuIQlmzz91hplr6BaTiE/ggmVAMoyxt+ogaHR5KNdLrJBz+KcRZlO+wzZYgQHcPWT6kv45ycf2RHY5qKmljxvCxVgpob/OZFbBIWyrigxaWEt93jZwpiSKyOQHQ06dQuh+YbGqBxi1k8ZggUWY4HluZEw4R50SGuO0FBsYeaYee+a9DmwAxO2ArOvlGsP4HLhsVxMQaQQXBWq6G6xCdGEXYk9BlJriAec1aJMLWlNCHUVbX29dtzTfeSYEpoWtqCCp4BYzBhtS6HXM1MMEzHBQ3Y6zOTVQKNz6URYwFTX0pP9Hg8QtDrSDqOStl72GFvXD+Zp8Pj+F4kLDp/OTqDyvYzH70hmA0JSFBh7giY6hu7sVH3349l/Nn5V608LBzsQLtP0plExqH03GRXCC9tvyIeaCQ0N1fbqxWEt2dVkyceHVx6N38Qz23XKh4RMWJUdf+z8dxldmarbQfiAp8pJeoMR2ce3UOAlEDUeEHYDORblsQEUodCnESAhfTBryUrMXaoQWKeG9mLd3AU++HvqoTM0U68qEfo6c+DMN6nGbpaJ0C79+KNUc/mLshcN7lSSFl9fYcGkMQmszqXr99LzhYBlTu6i5fHaaUNEBxseNJx/+FS8wWhiEohkSqXxgMQD7AjUrrpQvD9p+5A22KognzkwYWKsh6nTDRNJixjleAYjmtosTD8xJGpvoAjXF/ijttcQkQgO2aWRyq5KQRMXGWw6M9JW34CCAqV63GxiODiwjjZl3R05x+I4EXh2Amw9jcOo+dE6oTaOYrhbmbQg2odKfauJOmZAAPa5ensiQaBtu/A2oq9rpl5XAvMV7IX44JkWK51Kux0/wMGxHpCa7mjj59/SBcB9q95C5XMT+tYO/TAWxzQqnwS0bbJIQadsBgY8ZChJpKEWKwxx+TeXGQMzacnyZSZYfZPXBPyAKf3v8om7fA3qkn09neMtlTcM3nlJNaNkza1+VHNQW0KHiPJysyFfOXb0OT4i//byW2X9oiTwwKnzSzgetTw0PvsoYZ7tuDJTAPhI/7Ujlh6YPooCo/kcddA7gc7HVU+4nx0kO3Yp0gnORCPkS1qFHe2oVko44jrP+Hln1s10z+zdj3pus7GVxoX+b6WNZI4rW8UmMKDg5qo2/AdzPSgfFzxqejjKEbcSgdj0gg/UD6xCZjFwjev3qRCaB4m68nirEQdZ6paKjmA3H+yxn7hFb0AcqH9j8xAFFfnZ3lPTX7nrq/vCVCrJUrP5aw/BsaqMZBCwzfwxJ/HaoM7gdEszhWSmBfwmcMLQx8dpnh+spxnLSXkzShDtakh+jizVSvroUKPwpoy9SNGQqZkP/GGgkuCr+Q+LN+0ASFLBRXfESjidhgF7TyK6Oyl9TuBhTIHjSXmEWrkJ3V/ZZd9tEKr+snMuM0l9jCoqGFPHBA83MHFnD2NyHHzHM/BDsRTe9I7/Z1DkVAK9wdvsPq2Q0aING9+2IosZkz/l1MrQ1EQhEn/txKIbf/yAC/Al8b0ULExN5XYEjTBh07Zir5phmQXh0UHsxcq/pqRoTiP7OdYO6QKPUUB37yQvf4liWixcQKutWM0M2jpNl98pdqDPzqAFRD8wkWERul3VvUHB8RfS7bkoUaso39HgK/BrV57A1yqc5qEW+8ZlYka5UblZ/OvtjXx9NYx4V5Cza1KsKINGJDiG9EfYVQaB/QrQhzQWt6joKWS9FUF0Ws24DEvkJkVFp51pbxxVjq9CCesVci8Nuqze0wx6q3q193JOA2mnfvZfLhiO44GgCwNXN/M7k=
+ controls :
+  -
+    name : liste_des_valeurs
+    identifier : 0x216541f202eb03fc
+    internal_properties : BQAAAAUAAABNYCRdLRz6pd2W32W7os1C6h5qYg6MY5ZBBBcj9cwTdbAb5gDtvbM73jAtMC5Rap2fQRasu6LcT5dWzmIuD8MvibhMvO7IQyF0ZCmndRNJ7cZ14/VjEAdks35QnSfLnFGM8nR4+1Z5wHyeZM7Smt3gXhxeiUjhQJSBaHQg3V8wnl/E1kZc0kPM5SPoScl6s5pBf6KNA2/fiFHWFb0QEQ442PyzEJuQkU7WxW57fiBGD0lK4eqDhMEe/7JBCamnWlPqMJhncqOv43jYB3Fnndm21UloDXOsDyfN/VcI0zomc0abIHt9qA+1TIHTfvtu4SGUPSpvzKWMfvTfkkcZAC7gPpJZbkbOG0u2CQ3cLfjjv8IOYnx25pdmLZbqSPNDuhGsriuf/TSTBF/XYCRNUlwsLrnSXXFu03KNwtaCPn8+8pbEbt4pj123aa/mU/XjNAUnW1OCKnZtmBwqhwXORGIP8qw8iUys/X+2Ce6dBzhkgJcQ0iJY28aHt0v6zyWfGlszIpcsIPJDv6nvpU7cDyTIKXiz5FA2b8LP6qBdzVxDDY5rUCvuLNl4038CJpVuQ00q6QPwPj6J4BGogWpNi0fAFzVaKkYyn29QNRcOEAfG+7dSmUcnJxKbPqa//hyPssXFsjXv9JyW0H1LpySHQXhAPqxBwJVzKkLiePB1nCMPIkR6beuN+oWjWCWnwXPBSdHSx9TC8FkAOhTbhPLWKZuIPVooJ2j0r0bUaNqeqQqsoXxBQXR8wACdqcxCmAYgNypIOGM36oDJsYCaUM9G2GgXfR/2rZPbKAJrNmCGR/H1cXqDqU0ZMJsFIl/RzN3VMFBb/Pw44pXlrj8WRsk0DRDxeNZiPzO86gLcJGgVZv9JY2qAiPEHlwKDVCWTu/G3eKWWCBqLkC3ONBvvmyrdAUzPV8dtR4p+5JSAo6MIap+fbx0JIBc=
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+  -
+    name : Sélectionner
+    identifier : 0x216541f202ec03fc
+    internal_properties : BQAAAAUAAADWtXCVzHvq+zENL6YSeKJNuTRk7mLtwJHGMHfsck3z/ANz7VqdF28kjPHbOUQ7u4Au2Y5eCkrPbGGmE5LL7dBZZoRQBexS5aICQuAo5trAIJMC4Iaq154wZChZTh8WUn/VwnDv03ALSSzfqCdqwVxraPT9JrOdwJRlo6M7meS8zsCgvU4AGKd2aaY47d2WfamHxJ+0wFqIgePQzFrXJVlUI8ATzHIFVA+0JhIxqCXYqrFqLtgeiQMjnelDBajH6k3kBpEogmdHmDl11SKOuZyFDBhu9A9k5OLGgLCuHG+9MV9i5K/x+pcRARF6NLPmFZrgJ9bwrl5YiVywZuwa7WSvWfzjQQ/Cu38Xb1xOwTCmHQvhf/34us41VYBeJ9eXETQj0XCrVQrZyS1Nab3yE9uW36eyGpA3gP0ex2obxPNjHWvQGmWU6IxUlMN5nDIouuKxMTtnusqbAJXU+IvAAWdh3pi+9v5AehbKosc9C560yAcO3iGZCtFxjAlVgzO4ZA8wi6DMR7hPQmhmeZHkosE1it7MGovLiGFDHnk/Ck03ZE3dWFWYJs4Lf/qflRr9Q72GrnSoClaZMUXy9kszWp8tUiuXKFVCLwN1Ib6A0ZXkSTbUb35Gj7/PCdxyR5WEkYeRXZujxLZ64JCLKaKgP8fRx2Sr54Bu0bUeaVBeqZ5CINL9UUuFkMBq4ip7pLdEf1/PETuCnCo+sA7BAz/9BOSL6nHcHBIPICU0jgboOuUiUt1FfawnsA==
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : BQAAAAUAAAC0k47JJgkbSwr/IlHUqw77vnPYqcKaybb5sDzoTCMtpYd+EjNe6Q1iq+J6NVzsxQh5GnJ22LibTdPCLykPTcVjuKMYPQho86O7goysjBTn3iqgsb3De4c0GzHWkWhGDd2tWLQWvAP3xBj/z4J8eKv6V8nKlYCTUpVuZ2v9GRKcor8JfjA4s/jBn+BvSzFoJXIk0XLLtyeS3kCTfYHjkA4o3ta32+XPuA8wipRsaZbTLdy78Nc83VUQPVQk4OfA
+        code : |1+
+         
+         // test si déjà un fichier xml a été sélectionné et si c'est le cas alors on ferme le fichier xml en cours.
+         SI chnomfichier<>"" ALORS
+         	//ferme le fichier xml en cours.
+         	XMLTermine("docxml")
+         FIN
+         
+         chnomfichier = fSélecteur("", "", <§$0000§>, "xml"+TAB+"*.xml", "xml", fselOuvre+fselExiste)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Analyser
+    identifier : 0x216541f202ed03fc
+    internal_properties : BQAAAAUAAADO1Z7dhagMXO2AW8i84w75QrW4+tmColLp+YgI2Ds8roVjaldUWOiTWr9N1vfR3O0nwoD+rFzvAr7XIm7xSTsWBYB+IcnvAN5Idvgt8HfUD6H2V+Ua4zTeElIk7xyHBAl7eAoPzDxXFyQyaYLoIeV1N5zFTWMfmTTRnZfgJEt2MNr6tGqzV04h+IArhhsW5irc9ZkhXG9IxIKdYwnsXMSwm77P1OoiIJ/Cc0KMyAf4JuWXb0ytx5tbj0VN3HbJuTOTVIlHFbhFhVf01tiiGISivopD8tAY1YDtlzKWJ5mS41OLxthEjhZiVl7sepflmsggNkRINAC/vSs3zYT9xrMdw/osNFE2iPY/1E7xKJ4IK3HvOm1FAKrUfTx7MLCBIrKjAfzXXz0syTVFXg6zQyaOAQHAbKTeEVlGv9MEF9tai/GOmD/wEXeYHBOabVPsJ+LXj1vvYGMKxG++5WAHqfC9tqD4pF5xc1bW/kIohAD1wEd+jnkHR4z5QGVAzm5gwZceqY5ezxVYAgiGnMDFpOC9ZICo9tUaYwXZJNAOKZ+cuClRmiMsVX1ruazSP3CU+xitpaVvfybJFqhVmNODxRl0jbq7WbSl+IgujzzhPzk6yA7mpqRA+pU6TPw6VoAsNt/eigqT1dznMFswUMHS7C2cbZu4OgPNn6Am4aD4MEpJA9Ud8ZsbH95AWASwcJGHbe9KyGRa1vwlUh0DXlFHCB7TEk3YnjENIY5fFyEXI+rBQg==
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : BQAAAAUAAACmaAW3dhikIgFDhSSGhFm0orVES1Hs4pi8C4EUDhcafndo0+nqW8612j5disL/mr3yWDwIOSXhy8qlJxKJwN/H9JGxFUI4gFMHn41HzALejDNoNwL7MYRIwIQ+Yak/xdgBhQMbzEs5EAv+WQl2Buw3hkbAPr+2dUrJrtdSdOgswxAMvnE5B4RB7ywYD1AJmzUE0g2rdSiU2xhXE9koSubc05Wr1GeYBbZ6lZWhpeFuGLN/MPFYGNUsHquMuJ0aP83eRuD9Z8+b1peFTnVtu/x6kHVCTwL7TEOzE7Aa3NkqMZK2j+d4tx4EYdv64Q==
+        code : |1+
+         
+         SI SansEspace(chnomfichier) <> "" ALORS
+         	codexml est une chaîne
+         	
+         	ListeSupprimeTout(listebalise)
+         	
+         	// fchargeTexte charge le contenu du fichier xml dans une variable chaîne.
+         	codexml = fChargeTexte(chnomfichier)
+         	
+         	// création d'un document au format XML
+         	// XMLDOCUMENT permet de créer ou de manipuler un fichier XML.
+         	SI XMLDocument("docxml",codexml)=Faux ALORS
+         		Erreur(<§$0001§>,ErreurInfo())
+         		RETOUR
+         	FIN
+         	
+         	// La fonction xmlrecherche permet de faire une recherche d'éléments ou de types d'éléments dans le fichier XML
+         	// En recherchant la valeur null et en demandant tous les éléments, on fait une recherche de tout
+         	// les éléments du document.
+         	XMLRecherche("docxml",Null,XMLElément+XMLSousElément,XMLCommencePar)
+         	TANTQUE XMLTrouve("docxml")
+         		//Teste le type d'éléments trouvé
+         		SI XMLTypeElement("docxml")=XMLBalise ALORS
+         			// recherche dans la liste si cet élément n'y est pas déjà.
+         			SI ListeCherche(listebalise,XMLNomElément("docxml"))=-1 ALORS
+         				// il n'y est pas donc on l'ajoute.
+         				ListeAjoute(listebalise,XMLNomElément("docxml"))
+         			FIN
+         		FIN
+         		XMLSuivant("docxml")
+         	FIN
+         	GR_ANALYSE..Etat = Actif
+         SINON
+         	Erreur(<§$0002§>)
+         FIN
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : chnomfichier
+    identifier : 0x216541f202ee03fc
+    internal_properties : BQAAAAUAAABm2B8T/DWjYCKi8xoQ0bDEzO2ZFLISWa2IOYfBw96KeimZH8Q+t8vFMkcwyy/Q4n+JzZH/b02hzMBR94RBY2hPV8VO/lzn7ANKvpJh6wiCp7rMvLOLpFXj1sFfP6St2Nt8OFXKaGsSi2hkB0Fh+0GQzC5GNjOohaL06foWOnBsgwyb2mq0/kIBQdDZC01zYuViw/9CCjdOmq12/EoOH3DIoYZclvprlxmA5LypvAf4LkQCPm2fJYYJM7zIxZ1BGmoY+jBbO34YoCOPyygH2bPyeS/ey8d27UADKcBm1ziT4LyE414whCVJxZ9EzrujNsVq16sMJxxNHHhRf6flYEm5Xpe8W7ZxOfeaU7GnBjZ4U+aqGlLpvTv54sM7IlfcTE1bj4DMwf51TBeQ2mpzFM5jhgh/IIrzLAESm9pb6YLE3Dw2U4pPLGvtEZmynP4KjGAxU7OVNsd9WXM83NNQFzCuLNags8H317Ye/n5Wzg8VUnNFpcw30arZVKLTM5iuqRjgFNR6jAAmx3LQKyRLrrIhcw/x0rs6lVavt55dP8J6M5RadxVqXgMNEW0QlX9sRl9uYCAvlnHT7+69KFlTPdExBa/u9cgN3NWTJX+s6UxX1qGKgsGlCXvCnwk+cqvMMdMrnytSvc0nxGwNrau3x8QOhMQ98fy/TuOPk34I4Wbzbi2VaGgZAEUZAe9/lT8m0deWQFFkzubDzSsZCzELrzyVC/wtHbvtevwun8A2b2o/btTtBgsL7xK4uF2WxblzJ6FEGnpdwjIKRDMJno5N99Nq+sxvVlu53GL0jB1cYO8ninHqElVOaqTrHonGmuKbzZBXfBqVXWf2dkHt/Vtgc2KTKy1k70aEl8LcsLLq3cggbZmqyzuFrtje81nc0RIFs/9Hggs6FnmoB1TfBfcwV0NMjGARjvrYFUlSdm171YhgCHHX2IfcJ91Xn+r/bt2v0nGoNLtuLPUSGgjwz8c4UngTbehjscLaXQ==
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Séparateur1
+    identifier : 0x216541f202ef03fc
+    internal_properties : BQAAAAUAAABotKhp75gzy+9hECR7ydYo+3iMgOIQiLS3skf4HgmCaoSf5IHDlsRVa7VVoCNR5B8wTfIFx6aLq8vw3Q1fVX/GRuQC80aGxvPY/QkgAplRIqf6HjuBGRezfMAk+r3BBlX8jL0pkYmnHQMQWGrSQLtRJZarS0ZXQJ7jcJA8yuDQxosOnJLjfSHRQ4vHWbKE/IxRBhumbeaM9iQL8umsLym+vwW8Bcb++FOxN3lkz3908R/fQ0nsVZpfvn2iyi56FW+CXgCay4FIB/NGUBP/07Dml0PYrt3d+eNOi8f6aMv406TjQpW4gBeQMN8jqF0L+EoYMkdOW4e3ZOX8W7T94h8tsAfOVdYWWMTyKv8OC/lg3pVFHTAcCYR3pe/WUguPpaAA9E69JkS0hcuDkaQoqANROVkNXaPwoDXGYqHQq9d4ma9kpTmZwvEeZdLzWcZco/CKU8rcDqZv/FNqrn0OpY/ARfy9M4vBugN+M/5pv0DozZ7ECNsv
+    type : 28
+    code_elements :
+     type_code : 61
+     p_codes : []
+  -
+    name : listebalise
+    identifier : 0x216541f202f003fc
+    internal_properties : BQAAAAUAAAD6AUGcRc4BOafwCTuEM2OyQAdtAsdKYjjsM+l+nfm1DUn/F79E13p3mkAfkItf1tOGzx1kk/yCMVBqeHI3EABmGAUWZ3isZRWP9pnwz6fwB1ug0V1oe+LTZmYrBmT0dgUKQdjc7jv9nal3t3Rb8a1B0ZVn/C5gr5ZoiNphSV8BefA9kwcFQnf7v6vnfH3JREyfVJw+1XQBtyyF0++jZqJSCpZkxLnvWCQpruEaIvHhuupV9GnmAAgOH3TpcO5dgehMLeHhjhQXy8eqenfMl/wtvRiago8Ce3BO4aP8EyN1XrLfNvT4HKByV0+DRBWc61ND21/Lt/jVuYQp0Qz0CoDmiYh3XzWTRBPfgKqXQ9r8xk78lkIwlVVqzEu0B+gyyJcdkAIb/Kuof3n7K/yOkpRh7ympcoeaz90DBHa2HH9SW3U4XercHzEnaGo+NTJpwe4mXqqgrV1xtzF+pp3C+t82xDzzYiUZZMAQ+V6atOOWd3RRuruEtfzQG71qNprsWedRlDhsDVN8/2bWBpauPS9qvfDWGleJbFBUFQlTSVjCzVyVPVExIypS3JafMEMoODfMF8TYCeWAZvxFPjCfqV4Od3l1SvMPxvtJtJIGWEeZucFoRK2G7gFXM42EjFw3t6lz/Ox9YwslzrD4+mbxn1sUwny8NEowsbrfF58/An2MDBjyzDFgHdyjFfgCJxWHLEua64XS/+zV1hF2vQ7azdzICwSxETkZFFgbqaG+O1ifJazF9GDNSUU33ME5cDCWQIzUgNaDQQOOAyOziTngvpeTY5lpZRJGRbRen8WKxfOYNZbTFhnqtH0wdIcmxGqPyvYnAoho1OFnQ3ntQQUjNpNazbdpnwvL877WJf3Qyi+xLGEeHPVe1Pl84tUiWkvt1LtTNGBkXhvu78TxDVmJKfAhvr4fZdwueCclHDyYGrB6T2YboUIPuBdN4tIDRzb+9XY=
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        internal_properties : BQAAAAUAAADAu5dKCWtNcjIYS6BIi4fW9VGAnMZ7nRZWTkjT6FnJYaH++het3gQu9MtUUUZ2WnjEbv8Lgvn1ZP27eOCZev7DWO7UMpM4au+djDxdkKquqDnD6WvhGaD49QL/YJVomHyqQ/BHyGa2wYC0VLylYawVPhQQgVvg2e6VQsFFmpkLqOEPSeuYO2bTjTo84P0oXRC+iyxlcG0lXRCnTa1Kn+W73a/hE3dbDAf49hWj6scwYJyvdxr8H1/G76oeLVHwirmxgYFHQ/EPcZXjRwh8c6bGOLeQ/Pec
+        code : |1+
+         ListeSupprimeTout(liste_des_valeurs)
+         // on se positionne au début du document XML.
+         XMLRacine("docxml")
+         // on cherche la balise dans tout le document
+         XMLRecherche("docxml",listebalise[listebalise],XMLBalise)
+         TANTQUE XMLTrouve("docxml")
+         	SI XMLDonnée("docxml") <> ""
+         		// on ajoute la valeur se trouvant à l'intérieur d'une balise
+         		ListeAjoute(liste_des_valeurs,XMLDonnée("docxml"))
+         	FIN
+         	XMLSuivant("docxml")
+         FIN
+        type : 66051
+  -
+    name : BTN_FERMER
+    identifier : 0x216541f202e803fc
+    internal_properties : BQAAAAUAAADWZTz2KKty1PQK/8v4BXvlNZ8PQ517jG2N5JDCxfufTUNYDMEbl5xOKRDZB34ERF32yaBuchZLi2SERiSIeSBBfJof/7/dOzhi5nXc6C55+w9qcOgCzCibr/verGCU9tPmMsLG25JkqqyBBtLv4WHSaiPDtrqihK+YhAEcnoCC3i7zbTm6a9M2IVOhfEHCtL9ODNbLhEGnndypm4+n9YRNTm1zBTF5T6WJlklWYKG5pGq4YwlUlbp+5mKS7Atr1aG9IHyqcGR/eIi07eJVKDFnQ5birV2sjwx0TtjjPpF1dAtvhOO2CY1ShgiFEOAL8iFx8JxJfPgIhliKfUSNwwyNa1+tNusv7RBUIkURNGvL9r+3IWU/tCiIuMFcQspzy0zTIUo6YW9N2Y6Wxt2UWbTWMM71+eBOwrWEvzdDn2195uY+4GuDmOVxT35jKMniJn0ozDuESGm4z1FkVCj4eaOYfQFVdbps9imDYBRmxUlXEQQRRW5WV+dEedR/E37rEzSjossR7DKs8x1FQ/VuZrn6jVwqMZExKqL5Rrz2Bo10zH/lFo2PsVzV28ihQqSAeMPAP8tPJ0gk/69rfqgqJt3k6ktuYAxFoZ+usELHPa0T2CnDRpa+nD6gDyddNbnNhh/FRISlr0va9VMSZmMc4TdgwJXo7jr3F0nHTnlS5gpy+O2LP3kEwDSnvQcB2vY/uDo1lY2V+59qm05h/PYxcIqNohHI7QVBnc/bDHUvkKK5kW+jbqh5rN88OmpsIVV48QyZMIm4mjF7QWOax5Gfp6PhlgetQ7AsXuu9dlnQMhouA/FcIqH/Q9lc
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : BQAAAAUAAADlg+MZNL4UeN0CScoq3Rxf5gUg+iFD8TrM0IfnmXTmBKnXFNpcar1erZwYI1JZ4ul1VlNr8SlCSqUmSE/t8z2z4c2+cp3Psfdy+iN4xUHIwl5xUoKjn7dnHGqeRB4bYV3hoAh6uZDhZG7DA8DKlJ0/EDI8mUO8cvaPRnoI7rwYYjpPF/Vtuayt
+        code : |1-
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_EXEMPLE_COMPLET
+    identifier : 0x216541f202e903fc
+    internal_properties : BQAAAAUAAADNxHxd+A/it3mv/7cu43trxBeqQyPQpS5i4tuCINT/8kKbMHmJ06O21NVyt8br5a6HvFVMWSeLKqV+AmKtKLUfXBIMwgVJAWFrn/YJU8zvr1CHZOFm6SSqMPvAkqZOmWKtiJHlj/vMTqlG1l9wGNBLLwGvt92HDEHBlUOFCdXq8exRuS2/FOgBzCrAs5+kRM9Z6uCh9EdBNzFii6ewsQBsUD5XtRtrkFZLiFoK4bESbq5W2+JXrNoEZA5QnNF1cNLUB3MxJz0uVTpAy00YNYXlubq1r7X45vvTKDrr+JLWy/EVr6NX79wvqeSH2iOnK1NEKzYOD5bbPl0YYcXe2Sz2q/czrdog/C9WfneN668LXlaOs4W5qXGo5j16tRiEOL06jx6hdninmlgIdHq1NgxBRDR/220fnqvbiXXyQOfCQQ==
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+          
+        type : 14
+  -
+    name : LIB_TITRE
+    identifier : 0x216541f202ea03fc
+    internal_properties : BQAAAAUAAACRXLvxchHZLPWkto5We4lkJSKwA9pkiYwmL/j1n8BEi/JKdnL+WGmY3VnbH9uFo7b5hY1UEyTsTzheIkEBINg9wsxWGPj8ggQqqyjb0aw4qPLlGwa/mqh+V3xL5hR+EIN7sUBWqu1PXbcV/rpuvFitebw1BAEUMEvtCXCQCfrWKPGy9CSMkihgFRJ0E4S7uHxCDY0eHjLRPudPC9SpWM86hv4dqiLmpw2DN+4HB9izV9EJNhdu1vNYzAbJERbKv9AyO1bmo3KIPjZ8fSH/G/vWWkJvewZfmFpNzVGEZViXkSb6Et1zTNeBYZKgj1+qxipN/FQXvjIluEZJC41L+iuCUicicgtIoLjwPw3cjpq9HbqDUaz61V25I8mGRmQ0PY/snyHFtlQXm0HpvjbuNVPjWjuEMCNcxWSNy0H//zKAGiEc+i6P1Nlem1C09rhCNn20RiZ02mXpTYlBt3q73Jrfh0l1Qw5V
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : LIB_Double_cliquez_sur_une
+    identifier : 0x216541f202f103fc
+    internal_properties : BQAAAAUAAACp2LG1d5dEDoEjQbMPkriPdK5I5z9MAoxpcKr0MC8JBqf0u6sRDHr7gNunBeC4hZxpfI9hjk3okIQQa3TAIkR8FK6pGy2Z6xt7iEyLvE7z1GABw0V9RjeBSsNnyhZwxOdNMoMsXU8QcYPHxVcQymw3pm80NwHTk62yxVWQzDMfe2GrcYocEqVBb6tnLiJ3Osf3hisOqO+kaqGwrgUFtd5RiX0ZNnOmX/plEgqiR/J3eNjIM5YyvhQp076UUKbeFogLAD4fRsarwxytuXJlnj96ncuORyK187yYzJmdFzpO8k3/KLnNRjxEZN2KzcO/mCYuUeVZ+d3t+4KQtpsQLrKYxf5mz5SVVPVlv8zYaUV+00BFu+Or07Vexu999rzIcqOqpvDRttSPxqfXcDmVf+BRsfcAthkIVJEQ7+3qhvuStQHRxTLBNU1x/MaQvcxl3LDCbGIn9ivKMB+6Gcd7chs0NWjecXQtbmRw24sQ/Zv4LT6gqA==
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x3e2416931c0b9089
+  internal_properties : BQAAAAUAAABd4biPtdLQOwfUFiqrit8H4xfGqKyz9t6VLxCUnNZRQiLPVs82PZNE+UVdKRzjizyeuKyRur85gNMUfqplpmtNDnQWQla9zo+GH9+1EfUJ6w17Dn/egD/gv+Hhywk8c9unIdzEp7EHgaAqD28w7Agveg4u19PBcKGZtQ==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAAAfkiGcXnzs+8fHmX7g24i0BvoKmgmOpP6pRyeTg3gm2CDk0riD1oAV3vZ9qxfGgPTMsIudFW0jiWvtVAbpnl5i2nDEUIUiy5jKNGHjWApg
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+      
+      // Grise les champs d'analyse
+      GR_ANALYSE..Etat = grisé
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 40
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     code : |1+
+      
+      
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : BQAAAAUAAAD3UWcZN0qxyC9uWdLOjs8BX/1soPdnU6I4Z6Cy4NUwedTeRzMfMSJ0b0AF88Y/JRr7E65winwk27XtW1KirHmgLF9v8lxA04e1nQ==
+  original_name : Fenetre_xml
+resources :
+ string_res :
+  identifier : 0x3e24169300139093
+  internal_properties : BQAAAAUAAAAZ++HSz2luvwiNhadWl8v3mh2d0Pq0fCIps02kogrcwVHmCg==
+  strings :
+   -
+     text :
+      fr-FR : Sélectionnez un fichier...
+     index : 0
+   -
+     text :
+      fr-FR : Impossible de charger le document XML
+     index : 1
+   -
+     text :
+      fr-FR : Aucun fichier n'a été sélectionné
+     index : 2
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

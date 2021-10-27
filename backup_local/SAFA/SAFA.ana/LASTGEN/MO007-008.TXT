@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+SAFA_PERSONNEL		TAR	823	nouvelle taille enregistrement : 823
+SAFA_PERSONNEL	EID_PICTURE	CNW	Mémo binaire$Chaîne	la rubrique EID_PICTURE a pour nouveau type Mémo image

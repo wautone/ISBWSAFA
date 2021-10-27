@@ -1,0 +1,7 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+BENEFICIAIRES		TAR	982	nouvelle taille enregistrement : 982
+BENEFICIAIRES	Palliatif	RUB+		Palliatif est une nouvelle rubrique
+BENEFICIAIRES	AideMulti	RUB+		AideMulti est une nouvelle rubrique
+BENEFICIAIRES	AideProche	RUB+		AideProche est une nouvelle rubrique
+BENEFICIAIRES	Derogation	RUB+		Derogation est une nouvelle rubrique
+BENEFICIAIRES	TauxHoraire	RUB+		TauxHoraire est une nouvelle rubrique

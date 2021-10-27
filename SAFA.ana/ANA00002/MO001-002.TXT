@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+SAFA_PERSONNEL		TAR	132	nouvelle taille enregistrement : 132
+SAFA_PERSONNEL	AGE_ACTUEL	RUB+		AGE_ACTUEL est une nouvelle rubrique
+SAFA_PERSONNEL	AGE_SUIVANT	RUB+		AGE_SUIVANT est une nouvelle rubrique

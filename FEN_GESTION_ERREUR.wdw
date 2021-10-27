@@ -1,0 +1,126 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_GESTION_ERREUR
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_GESTION_ERREUR
+ identifier : 0x2105db51016def42
+ internal_properties : BQAAAAUAAABkykKPEfraVFYT4/YLwmInCcPaQt1MA6FalFxaBGpW4pRJsFqzLaeQyF7wVwAvYP9hdYYMo/LYMy6hq62uL1yPPXzRqg7V7uUF8Y3ezUrepOap5SWQcRUya/oIrPVfRILufySSvAZSLgsEqB04zrjntoCHyCJlxXtM9/nPoGN2c2EhWwZcfTee96ZChTgHqhf5fNINrJmDbo3/HBD8DDzJNlTQ49NlQxL28zvnJR16a8fscEJug3+PnLdi10DUwRPtD9nJtHXCY/asWi8BSzzmAFWEkiJ6ManOxqNyyBks1xmkQyq9+QRAnHUFWLxg9UWVThf9uQ7dVV0I50rdqtPk5pfDRkEQtDfTtoZn3it8PamzUMU1gpk6OrlAoOJgZTs+MHLej2OuuLUX+6PJ1QQdS11UgW+M4kvohTu4AXecK9/chcK0OWX49mlp31+LXVmbF0d6nEiIbaT8oa7dvmDy5PMqlj8crL6N88CvLdrv/09ttIYD/35IqObFkCFajoXl7EA5qmecE6GKlgFEIbk09k6ohX+tyG+C520Sm2BUZRwTq2CeyVwqVr4/C+L8eBjMs4vgFDhLUJj/cFza4P/BX5PxEQxpPyuVRur9Zb7RMSPwWp6kMkrb3qCzEj+0Kl/1oi81qDpHwRzfwqRunckwO/10yyLuLkpu4Wg6kxcd/jzfL3wNX0Cky6IBMTG51Kw66dqmgkrhr11ieGEgWIjIXrFhlE937FrkfRKDDcM/Uj7f31n4ihvzc2WbsW0zTnTUKd+N/3dzY54YhrN19UgBqaSpdDy0z9KcpvGAinvBzTncNIsManibSXzdhvv7fYayYOQcGklKvlL8qbwCpzvj4x6LQGBoSIgAEeIPN1M/IVQHxPNTSIdyXimOlJNw4mdRktKhseTKVLRWomxuEumhGYO+cTgOB8T8ybMZ+ZUhfLid0UwPrLGAX9scU7gXPnOkP+smmBJHc+fpALJe+WVmFBnXhZun0g0spVgD
+ controls :
+  -
+    name : LIB_erreur
+    identifier : 0x2105db6f01ad6434
+    internal_properties : BQAAAAUAAACf3y+0YX08Wt/G+SO4Y95FQH4KAXL3Eeo8oTdO9veY6OnIuy/3lexmQz7c95IuBT/nO7hQTOyzIfqjyvkpy0Oo7mFx1g0gw3AFiwms/l4XFDNOhv+dWqMja81/j3dX6w0WSa2WvSPnbvImbkKB6gO688MksldnzEUxQBy6c5WYqawh2K3u+O3CGZb/o5z7FLQ64rJTZHNZsaj3sLRW7BBTl2N6NMNb3IVY+vOvrsKjPL+9aO44KUTk6xrcATTdtL/IPFuRs3esNoJKhSiy397Y6KlYdbPmIZblJJlZl4u+iP2lYzCCn+BbG/WXKWxmaEJdUyqT3wlapQ58ZyFFryg2W9uV3iW9nZ3hYQwgJBMg1shJ5C4g2g8LL3k/euCl99wEW5O82ygYg8a1X0F/RcZdG29zSLyT1hl6l/2zEl+RpqSUmmaPH2xBVw8I/fLyyUxXKW28h2Pk
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : SEL_choix
+    identifier : 0x210650d301bfeaa6
+    internal_properties : BQAAAAUAAAAV4wICyGZ6iArxyl1TDAfWs2+fKJB8wYBVzXLqcKbzI3xQo40eXku7wnnB8KpXnOaZ8OyUmz2kn88N+7lQXdjIRdsTihw1FDvDEfSnDwqJkYZKgHVCuHyLwQx0T+n8uDoSRAe4RHSWkSD4T8UaWomenKMgCxiNlt28Wl6/TYncgN4wuu9geX6JGcfJ7x2xHZFC4GKnO1EeC2mMIg3wcYqJp40UUlCGw5uvJWUl9n9TRuFCqXxPtaZOiAW6V6jkVOqLv+HSpaE69abGar0tNxwASZYgz8pYEpIF6yc1RtPxoT0YHSZejWsS2nOhFhEIa8vsGDBREM7Wt1IvY14F3ElbbSKeGP00KZScmc6pIQ///StXC+tUIvwlBqLd+EMoKI0+ePQibGfqUvwivDrBvJOfJoZ1IfXMvKMxOkBQlt1EhXW202mJMTyrAf/eEmbBuG11ByH12gtpq4UOEd6uu/aZGsw3rWbqqhIma6ADV45ZW76y8X2hv9GhGiaQIdlP2LwY/rszJz5iy0z6sc6+ZVsECuhPCb/M7/uNqtGB56X8UQdZDztH1ert7u3/92s6J8uqZTBLs+37NeSJAN5apaLtyCuWB+/L5a7P/NlesMrJpzxysaKt24FW3HA3XQa6naHMnDL+aBVf9X1ETxamu4LoIlNSFsGeo8WsGkm20T89EPmlhlOILkN32FV6cVS/ilhmPwriTf7uJT9jecpihiwQe/MHLfANc6cWUWXw7FAgZvlmra5oYyCol2jb/lANYq/1s9qUVqoZaTWQrsMHQNsOWBuARmmcVJ2qpo0EatndZGe5pV78P/VAibv8jrplhBQAu1I5UQT8mX7ISB3rPtOf5d+0oWyjbU+glA8XpylB8jbjG3j+BwMdbzHAG3ORTU+/0rBHP81nSfpyR76VCVaAWpltZpI=
+    options :
+     -
+       internal_properties : BQAAAAUAAABzvIYUcrpz+9FawBJ4AHLUPxeo5V1+Cbu6O2Pl60naIN/Z8Gz2ayFrbkEW3HJ0C4AqI3PotsABKUw+CbH6K7Z+cdlsZbHRBSni8sYvQWoTKCsSwbH6FSBWzGh2dFILROjYLFXga7qqKfU8KavxBWT/yIDpvp4RYUCnAT8cWA==
+     -
+       internal_properties : BQAAAAUAAADj801latPOZzLqNruCJQgQM5Jblq13cxuW71ufzXwU2ph2uu3OrhDE5sYMDkPDzyeyP4BF+Z45ZkrA6u7IS9rf73WICSqN1uqvmTHbEE6AQ7iw+l1TNpLiFMJkL2QW9ibCdM0OWULrxtKbE0qujuksGmvQJt8MdycVWdM/T7FBUXuXve4HfEHPyjCluv3eBA==
+     -
+       internal_properties : BQAAAAUAAADW20p0vclh4u9nAV2lixL+YhM1GxhEZru3pr23W//t75j0pE8aIWi3YC0wBry5aNta1vGGzq6eCWKkoC5R1/AhFJOdCghp076ax7JB8HEdeyXIL3Jb9HJNOtvIxOe8YstGh4xGWpprgYakqHigBhLz4oiw3M4J6KsDlnMATt8qOUci8IabhxzvrecW6G1a
+     -
+       internal_properties : BQAAAAUAAAD1t+376zsc0OzypP4hhxppOKnZ0EQQoVJM5zi9GlSqvJXwtvf4F5Z1MP3R5eUX679/HFTcWBaUHa8DSiDYtpkDxP70oKP8uQesRioFtGU51E8Tr1UNCV8xWz2LZWgBh7c52W6j8HkiR68AFQ/cqvb/X8aGM4XmeW1y7/C7lENUNLr1FHUbSc4=
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : BTN_valider
+    identifier : 0x2106513a02157e46
+    internal_properties : BQAAAAUAAABzwwPexHgHnbhoupBruJ7J//syV3BXGhJSvt+qmOc086y1hkfxnkZM3luvle89owH0lUCuppNr+wpXC5Sf4Dpj0l1ZsGaqZgCwXcqYIVSpb22KR/mi3EkTldF2T4ZmBX1ZmXKD16YYm4/Egvbowmlb086CAOyPSOjX5z1IUp4fnhMU032y9GpHGL/Nu7OX/CR5GYH7DHaVuTxM9slZxwxpHDCPtEtVW3CJvMRnTZJ5mqtZQxJ9bIvgK5ieAUGptDic8RDjUCQupvGoVTzed5N5mEk5t0Ri2uoqps1xWug4w0aGA1zDrK9R/PA4lOTHngIFrTOjRryoYRhEselz1ivUdAFVAPLGj0dHofGmH7Y4WW94kS72aYFx8oKKft0uj7AglsUn2/fw0wyQ1XTcNLM9NPu5TSZK8lC5cT7oZeal+2buq42WwN2dwFLy2YWJ5vMo3OnQgxdrhU+xhEuBDmSCa6r7ZKNp8/s1aI6XHsMfnEVUhpopbIyZpno0G14wJH0mBILMGW9PAa+/DLkJpsY4VyYcxuudzqW2n6bMoM3mTh8Loq80MujvJ7GLu6t5k0ApqFWWcY4scQ2fl1y1MfMRZKAX7AwHwLmLz+QM80h3ORLSpVflL/b4wNSHuZVVHyES0rNN4tKffnVVwG3sc2E5qInbcLf3SLAY/jcq2BWCwQt1frmO1TRCGNJtyztsj80OdbSeDIMD9EgihsUE/BnkGxEJt/FGepvPLBNED2aRYPU=
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         hraz(SAFA_PERSONNEL)
+         
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAACJj4O8dg1asjuM90/7BZobf9cXWWo/crVDILRk/p3e8SAf8eZM5DHmP70c9G9kr3nPdqKr8AwY0zxkRwdJb16iBAkbkK8Bi1TA8tDyKTPdJkiP9sF4CqGBJs0hULirrcckt1CzHsuf8cX/va50RbjbGAk26QONqeyxqE1G
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      //--- Fenêtre Popup ---
+      // Pour accéder au champ ou à la combo popup qui a ouvert cette fenêtre
+      // vous pouvez utiliser : MonChampPopup
+      PROCEDURE MaFenêtre()
+      //MaFenêtre..titre="ERREUR DE DOUBLONS DANS LE FICHIER <%2>"
+       //LIB_erreur=ChaîneConstruit("Vous avez introduit la valeur <"+{"FEN_SAFA_PRESTATAIRES_MODES.SAI_"+HErreurInfo(hErrRubrique)}+">  qui existe  dans la rubrique <%1> du fichier <%2> "+rc+rc+"Veuillez sélectionner un choix pour continuer...",herreurinfo(hErrRubrique),herreurinfo(hErrFichier))
+       TitreEnCours( gfond(RougeFoncé)+gStylo(RougeClair) + herreurinfo(hErrFichier))
+       //LIB_erreur=ChaîneConstruit({"FEN_SAFA_PRESTATAIRES_MODES.SAI_"+HErreurInfo(hErrRubrique)})
+       info(herreurinfo(hErrRubrique))
+       
+       
+       
+       
+   -
+     code : |1+
+      
+      
+      
+      
+      
+      
+     type : 34
+   -
+     code : |1-
+      
+      selon SEL_choix
+      	// Je souhaite réessayer
+      	CAS 1
+      		renvoyer opRéessayer
+      	// Je souhaite continuer le traitement en cours
+      	CAS 2
+      		renvoyer opAnnuler
+      	// Je souhaite arrêterle traitement en cours
+      	CAS 3
+      		renvoyer opFinTraitement
+      	// Je souhaite arrêter le programme
+      	CAS 4
+      		renvoyer opFinProgramme
+      FIN
+     type : 2
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1105db3e0010a529
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

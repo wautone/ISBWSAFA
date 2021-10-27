@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+SAFA_PERSONNEL		TAR	916	nouvelle taille enregistrement : 916
+SAFA_PERSONNEL	FINANCEMENTS	RUB+		FINANCEMENTS est une nouvelle rubrique

@@ -1,0 +1,5 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+DETAILS_PRESTATIONS_PRESTATAIRES		TAR	497	nouvelle taille enregistrement : 497
+DETAILS_PRESTATIONS_PRESTATAIRES	TauxHoraire	RUB+		TauxHoraire est une nouvelle rubrique
+DETAILS_PRESTATIONS_PRESTATAIRES	Statut_plasman	RUB+		Statut_plasman est une nouvelle rubrique
+DETAILS_PRESTATIONS_PRESTATAIRES	Statut_Compta	RUB+		Statut_Compta est une nouvelle rubrique
